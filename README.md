@@ -12,10 +12,14 @@ terms   the search terms
 ``````
 ### Example
 Go into src directory.
-Type in 
-"python crawler.py -n 200 new york"
-or simply
-"python crawler.py horse"
+Type in
+``````
+python crawler.py -n 200 new york
+``````
+or
+``````
+python crawler.py horse
+``````
 
 ### Notice
 1. "-n" is optional. The default value is 500.
