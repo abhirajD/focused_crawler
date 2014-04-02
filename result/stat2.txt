@@ -1,0 +1,4509 @@
+start!
+Search Terms: 
+['usa', 'travel']
+1. http://www.usatoday.com/travel/
+			num of found terms: 2
+			link score: 100000.000
+			page score: 4.308
+			crawl time: 2014-02-20 12:46:44.286427
+			size(Byte): 230845
+			return code: 200
+
+
+2. http://www.lonelyplanet.com/usa/travel-tips-and-articles/top-10-us-travel-destinations-for-2014
+			num of found terms: 2
+			link score: 100000.000
+			page score: 2.446
+			crawl time: 2014-02-20 12:46:44.855453
+			size(Byte): 82769
+			return code: 200
+
+
+3. http://flyusatravel.com/
+			num of found terms: 2
+			link score: 100000.000
+			page score: 0.125
+			crawl time: 2014-02-20 12:46:44.911908
+			size(Byte): 17767
+			return code: 200
+
+
+4. http://travel.state.gov/content/travel/english.html
+			num of found terms: 2
+			link score: 100000.000
+			page score: 2.968
+			crawl time: 2014-02-20 12:46:45.002105
+			size(Byte): 27031
+			return code: 200
+
+
+5. http://www.discoveramerica.com/
+			num of found terms: 2
+			link score: 100000.000
+			page score: 1.379
+			crawl time: 2014-02-20 12:46:45.289290
+			size(Byte): 60040
+			return code: 200
+
+
+6. http://www.usastudenttravel.com/
+			num of found terms: 2
+			link score: 100000.000
+			page score: 4.811
+			crawl time: 2014-02-20 12:46:44.771743
+			size(Byte): 29750
+			return code: 200
+
+
+7. http://www.lonelyplanet.com/usa/travel-tips-and-articles
+			num of found terms: 2
+			link score: 100000.000
+			page score: 2.474
+			crawl time: 2014-02-20 12:46:45.286056
+			size(Byte): 64131
+			return code: 200
+
+
+8. http://www.fodors.com/world/north-america/usa/
+			num of found terms: 2
+			link score: 100000.000
+			page score: 1.893
+			crawl time: 2014-02-20 12:46:45.228822
+			size(Byte): 73852
+			return code: 200
+
+
+9. http://wikitravel.org/en/United_States_of_America
+			num of found terms: 2
+			link score: 100000.000
+			page score: 0.662
+			crawl time: 2014-02-20 12:46:44.911082
+			size(Byte): 448146
+			return code: 200
+
+
+10. http://www.safetravelusa.com/
+			num of found terms: 2
+			link score: 100000.000
+			page score: 0.157
+			crawl time: 2014-02-20 12:46:46.752941
+			size(Byte): 80251
+			return code: 200
+
+
+11. http://www.usatoday.com/
+			num of found terms: 2
+			link score: 21.538
+			page score: 2.525
+			crawl time: 2014-02-20 12:46:47.144070
+			size(Byte): 214870
+			return code: 200
+
+
+12. http://travel.state.gov/content/travel/english.html
+			num of found terms: 2
+			link score: 17.806
+			page score: 2.968
+			crawl time: 2014-02-20 12:46:47.284966
+			size(Byte): 27031
+			return code: 200
+
+
+13. http://www.usatoday.com/weather/
+			num of found terms: 2
+			link score: 21.538
+			page score: 1.713
+			crawl time: 2014-02-20 12:46:47.277190
+			size(Byte): 54917
+			return code: 200
+
+
+14. http://www.usatoday.com/story/cruiselog/2014/02/20/autistic-child-autism-friendly-cruise/5640629/
+			num of found terms: 2
+			link score: 12.923
+			page score: 4.419
+			crawl time: 2014-02-20 12:46:47.301551
+			size(Byte): 74436
+			return code: 200
+
+
+15. http://www.usatoday.com/media/latest/videos/travel/
+			num of found terms: 2
+			link score: 43.077
+			page score: 2.082
+			crawl time: 2014-02-20 12:46:47.270997
+			size(Byte): 88164
+			return code: 200
+
+
+16. http://www.usatoday.com/story/travel/destinations/2014/02/20/budget-affordable-cities-destinations/5612719/
+			num of found terms: 2
+			link score: 12.923
+			page score: 4.571
+			crawl time: 2014-02-20 12:46:47.243212
+			size(Byte): 115728
+			return code: 200
+
+
+17. http://www.lonelyplanet.com/north-america
+			num of found terms: 2
+			link score: 14.758
+			page score: 0.791
+			crawl time: 2014-02-20 12:46:47.314743
+			size(Byte): 72606
+			return code: 200
+
+
+18. http://www.usatoday.com/sports/
+			num of found terms: 2
+			link score: 17.231
+			page score: 1.170
+			crawl time: 2014-02-20 12:46:47.146066
+			size(Byte): 233449
+			return code: 200
+
+
+19. http://www.usatoday.com/story/travel/destinations/2014/02/04/beautiful-state-photo-tour/5205215/
+			num of found terms: 2
+			link score: 12.923
+			page score: 0.727
+			crawl time: 2014-02-20 12:46:47.466439
+			size(Byte): 514849
+			return code: 200
+
+
+20. http://www.musicamericaevents.com/
+			num of found terms: 2
+			link score: 14.432
+			page score: 0.350
+			crawl time: 2014-02-20 12:46:47.752259
+			size(Byte): 8538
+			return code: 200
+
+
+21. http://www.usatoday.com/media/latest/videos/news/
+			num of found terms: 2
+			link score: 45.114
+			page score: 1.894
+			crawl time: 2014-02-20 12:46:47.857678
+			size(Byte): 89054
+			return code: 200
+
+
+22. http://www.usatoday.com/money/markets/
+			num of found terms: 2
+			link score: 55.272
+			page score: 1.502
+			crawl time: 2014-02-20 12:46:47.791693
+			size(Byte): 152562
+			return code: 200
+
+
+23. http://www.usatoday.com/tech/
+			num of found terms: 2
+			link score: 33.757
+			page score: 1.409
+			crawl time: 2014-02-20 12:46:47.803265
+			size(Byte): 160463
+			return code: 200
+
+
+24. http://www.usatoday.com/opinion/
+			num of found terms: 2
+			link score: 33.757
+			page score: 1.419
+			crawl time: 2014-02-20 12:46:47.889114
+			size(Byte): 158978
+			return code: 200
+
+
+25. http://reg.e.usatoday.com/
+			num of found terms: 2
+			link score: 33.757
+			page score: 3.778
+			crawl time: 2014-02-20 12:46:48.381238
+			size(Byte): 50582
+			return code: 200
+
+
+26. https://offers.usatoday.com/3FOR34COM
+			num of found terms: 2
+			link score: 43.032
+			page score: 1.500
+			crawl time: 2014-02-20 12:46:48.761826
+			size(Byte): 31532
+			return code: 200
+
+
+27. http://www.usatoday.com/money/
+			num of found terms: 2
+			link score: 33.757
+			page score: 1.276
+			crawl time: 2014-02-20 12:46:48.862795
+			size(Byte): 168514
+			return code: 200
+
+
+28. http://www.usatoday.com/yourtake/
+			num of found terms: 2
+			link score: 33.759
+			page score: 2.129
+			crawl time: 2014-02-20 12:46:48.912759
+			size(Byte): 72928
+			return code: 200
+
+
+29. http://puzzles.usatoday.com
+			num of found terms: 2
+			link score: 43.032
+			page score: 4.393
+			crawl time: 2014-02-20 12:46:49.445793
+			size(Byte): 32291
+			return code: 200
+
+
+30. http://www.usatoday.com/news/
+			num of found terms: 2
+			link score: 46.466
+			page score: 1.412
+			crawl time: 2014-02-20 12:46:50.802436
+			size(Byte): 155904
+			return code: 200
+
+
+31. http://www.usatoday.com/topic/3a4bf298-bf54-4309-a8d8-04b38f011bbc/usa-weekend/
+			num of found terms: 2
+			link score: 33.670
+			page score: 1.874
+			crawl time: 2014-02-20 12:46:50.872413
+			size(Byte): 75135
+			return code: 200
+
+
+32. http://www.usatoday.com/big-page/
+			num of found terms: 2
+			link score: 38.063
+			page score: 2.943
+			crawl time: 2014-02-20 12:46:50.877302
+			size(Byte): 61956
+			return code: 200
+
+
+33. http://www.usatoday.com/life/
+			num of found terms: 2
+			link score: 48.991
+			page score: 1.305
+			crawl time: 2014-02-20 12:46:50.870923
+			size(Byte): 169511
+			return code: 200
+
+
+34. http://www.usatoday.com/search/
+			num of found terms: 2
+			link score: 31.145
+			page score: 4.718
+			crawl time: 2014-02-20 12:46:50.958165
+			size(Byte): 26481
+			return code: 200
+
+
+35. http://www.usatodayclassifieds.com/
+			num of found terms: 2
+			link score: 35.538
+			page score: 150.000
+			crawl time: 2014-02-20 12:46:51.312947
+			size(Byte): 21081
+			return code: 200
+
+
+36. http://www.usatoday.com/legal/tos.html
+			num of found terms: 2
+			link score: 47.187
+			page score: 1.917
+			crawl time: 2014-02-20 12:46:52.042396
+			size(Byte): 65986
+			return code: 200
+
+
+37. http://www.usatoday.com/mobile-apps/
+			num of found terms: 2
+			link score: 31.145
+			page score: 2.110
+			crawl time: 2014-02-20 12:46:52.173027
+			size(Byte): 40294
+			return code: 200
+
+
+38. http://www.usatodayeducate.com/staging/
+			num of found terms: 2
+			link score: 35.538
+			page score: 2.647
+			crawl time: 2014-02-20 12:46:54.547888
+			size(Byte): 54179
+			return code: 200
+
+
+39. http://www.usatoday.com/life/books/best-selling/
+			num of found terms: 2
+			link score: 48.729
+			page score: 1.186
+			crawl time: 2014-02-20 12:46:54.848973
+			size(Byte): 101764
+			return code: 200
+
+
+40. http://www.usatoday.com/rss
+			num of found terms: 2
+			link score: 46.004
+			page score: 2.056
+			crawl time: 2014-02-20 12:46:54.854499
+			size(Byte): 47436
+			return code: 200
+
+
+41. http://www.usatoday.com/shop/
+			num of found terms: 2
+			link score: 47.423
+			page score: 2.236
+			crawl time: 2014-02-20 12:46:54.996495
+			size(Byte): 40746
+			return code: 200
+
+
+42. http://service.usatoday.com/homesubscribeV2/
+			num of found terms: 1
+			link score: 46.004
+			page score: 2.000
+			crawl time: 2014-02-20 12:46:55.130048
+			size(Byte): 1998
+			return code: 200
+
+
+43. http://www.usatoday.com/reporters
+			num of found terms: 2
+			link score: 46.004
+			page score: 1.812
+			crawl time: 2014-02-20 12:46:55.804266
+			size(Byte): 39922
+			return code: 200
+
+
+44. http://www.usatoday.com/contactus
+			num of found terms: 2
+			link score: 46.004
+			page score: 1.812
+			crawl time: 2014-02-20 12:46:56.639483
+			size(Byte): 56263
+			return code: 200
+
+
+45. http://www.usatoday.com/travel/travel-agents/
+			num of found terms: 2
+			link score: 37.350
+			page score: 2.950
+			crawl time: 2014-02-20 12:46:57.879516
+			size(Byte): 79575
+			return code: 200
+
+
+46. http://www.usatoday.com/travel/destinations/
+			num of found terms: 2
+			link score: 37.350
+			page score: 3.590
+			crawl time: 2014-02-20 12:46:57.884928
+			size(Byte): 153391
+			return code: 200
+
+
+47. http://www.usatoday.com/life/books/
+			num of found terms: 2
+			link score: 36.720
+			page score: 1.401
+			crawl time: 2014-02-20 12:46:57.890788
+			size(Byte): 145650
+			return code: 200
+
+
+48. http://www.usatoday.com/travel/roadwarriors/
+			num of found terms: 2
+			link score: 37.350
+			page score: 3.173
+			crawl time: 2014-02-20 12:46:57.907173
+			size(Byte): 96947
+			return code: 200
+
+
+49. http://www.usatoday.com/travel/hotels/
+			num of found terms: 2
+			link score: 37.350
+			page score: 3.627
+			crawl time: 2014-02-20 12:46:57.906045
+			size(Byte): 144808
+			return code: 200
+
+
+50. http://www.usatoday.com/travel/cruises/
+			num of found terms: 2
+			link score: 37.350
+			page score: 3.352
+			crawl time: 2014-02-20 12:46:57.905477
+			size(Byte): 153480
+			return code: 200
+
+
+51. http://www.usatoday.com/travel/flights/
+			num of found terms: 2
+			link score: 37.350
+			page score: 3.549
+			crawl time: 2014-02-20 12:46:57.885768
+			size(Byte): 171712
+			return code: 200
+
+
+52. http://www.usatoday.com/topic/cb3198f6-3a43-4dfe-8305-992742873b0f/experience-travel/
+			num of found terms: 2
+			link score: 41.658
+			page score: 2.036
+			crawl time: 2014-02-20 12:46:57.871501
+			size(Byte): 111961
+			return code: 200
+
+
+53. http://www.usatoday.com/legal/privacynotice.html#adchoices
+			num of found terms: 2
+			link score: 41.213
+			page score: 1.891
+			crawl time: 2014-02-20 12:46:59.079132
+			size(Byte): 53206
+			return code: 200
+
+
+54. http://www.usatoday.com/travel/deals/
+			num of found terms: 2
+			link score: 37.350
+			page score: 3.246
+			crawl time: 2014-02-20 12:46:59.874618
+			size(Byte): 122764
+			return code: 200
+
+
+55. http://www.usatoday.com/money/business/
+			num of found terms: 2
+			link score: 64.635
+			page score: 1.500
+			crawl time: 2014-02-20 12:47:00.990071
+			size(Byte): 157453
+			return code: 200
+
+
+56. http://www.usatoday.com/life/tv/
+			num of found terms: 2
+			link score: 65.750
+			page score: 1.529
+			crawl time: 2014-02-20 12:47:01.042734
+			size(Byte): 138807
+			return code: 200
+
+
+57. http://www.usatoday.com/money/cars/
+			num of found terms: 2
+			link score: 64.635
+			page score: 1.447
+			crawl time: 2014-02-20 12:47:01.042302
+			size(Byte): 157578
+			return code: 200
+
+
+58. http://www.usatoday.com/life/music/
+			num of found terms: 2
+			link score: 65.750
+			page score: 1.458
+			crawl time: 2014-02-20 12:47:01.044633
+			size(Byte): 134959
+			return code: 200
+
+
+59. http://www.usatoday.com/story/news/2013/01/09/corrections-clarifications/1821023/
+			num of found terms: 2
+			link score: 64.383
+			page score: 4.395
+			crawl time: 2014-02-20 12:47:01.049617
+			size(Byte): 121497
+			return code: 200
+
+
+60. http://www.usatoday.com/money/personal-finance/
+			num of found terms: 2
+			link score: 64.635
+			page score: 1.487
+			crawl time: 2014-02-20 12:47:01.058427
+			size(Byte): 154406
+			return code: 200
+
+
+61. http://www.usatoday.com/life/people/
+			num of found terms: 2
+			link score: 65.750
+			page score: 1.336
+			crawl time: 2014-02-20 12:47:01.059273
+			size(Byte): 140179
+			return code: 200
+
+
+62. http://www.usatoday.com/life/movies/
+			num of found terms: 2
+			link score: 65.750
+			page score: 1.491
+			crawl time: 2014-02-20 12:47:01.190008
+			size(Byte): 138496
+			return code: 200
+
+
+63. http://www.usatodayhss.com/customize
+			num of found terms: 1
+			link score: 65.368
+			page score: 1.480
+			crawl time: 2014-02-20 12:47:01.375947
+			size(Byte): 151465
+			return code: 200
+
+
+64. http://www.usatoday.com/tech/gaming/
+			num of found terms: 2
+			link score: 73.516
+			page score: 1.463
+			crawl time: 2014-02-20 12:47:01.523149
+			size(Byte): 140968
+			return code: 200
+
+
+65. http://www.usatoday.com/news/world/
+			num of found terms: 2
+			link score: 73.519
+			page score: 1.849
+			crawl time: 2014-02-20 12:47:01.523944
+			size(Byte): 135845
+			return code: 200
+
+
+66. http://www.usatoday.com/news/politics/
+			num of found terms: 2
+			link score: 73.519
+			page score: 1.532
+			crawl time: 2014-02-20 12:47:01.527295
+			size(Byte): 151878
+			return code: 200
+
+
+67. http://www.usatoday.com/tech/personal-tech/
+			num of found terms: 2
+			link score: 73.516
+			page score: 1.620
+			crawl time: 2014-02-20 12:47:01.531473
+			size(Byte): 145525
+			return code: 200
+
+
+68. http://www.usatoday.com/news/nation/
+			num of found terms: 2
+			link score: 73.519
+			page score: 1.547
+			crawl time: 2014-02-20 12:47:01.539991
+			size(Byte): 134851
+			return code: 200
+
+
+69. http://www.usatoday.com/sports/college/
+			num of found terms: 2
+			link score: 73.277
+			page score: 0.972
+			crawl time: 2014-02-20 12:47:01.754761
+			size(Byte): 174236
+			return code: 200
+
+
+70. http://www.careerbuilder.com/
+			num of found terms: 0
+			link score: 73.382
+			page score: 0.000
+			crawl time: 2014-02-20 12:47:01.966962
+			size(Byte): 42552
+			return code: 200
+
+
+71. http://www.usatodaysportsevents.com/
+			num of found terms: 1
+			link score: 73.277
+			page score: 0.680
+			crawl time: 2014-02-20 12:47:02.213289
+			size(Byte): 25143
+			return code: 200
+
+
+72. http://www.usatoday.com/opinion/cartoons/
+			num of found terms: 2
+			link score: 73.526
+			page score: 1.503
+			crawl time: 2014-02-20 12:47:04.157231
+			size(Byte): 90234
+			return code: 200
+
+
+73. http://mmajunkie.com/
+			num of found terms: 1
+			link score: 84.735
+			page score: 0.646
+			crawl time: 2014-02-20 12:47:04.534688
+			size(Byte): 83843
+			return code: 200
+
+
+74. http://www.usatoday.com/sports/motor-sports/
+			num of found terms: 2
+			link score: 84.735
+			page score: 0.893
+			crawl time: 2014-02-20 12:47:04.744156
+			size(Byte): 177825
+			return code: 200
+
+
+75. http://www.usatoday.com/sports/mls/
+			num of found terms: 2
+			link score: 84.735
+			page score: 0.993
+			crawl time: 2014-02-20 12:47:04.807542
+			size(Byte): 171240
+			return code: 200
+
+
+76. http://www.usatoday.com/sports/wnba/
+			num of found terms: 2
+			link score: 84.735
+			page score: 0.929
+			crawl time: 2014-02-20 12:47:04.806882
+			size(Byte): 170065
+			return code: 200
+
+
+77. http://www.usatoday.com/sports/ufc/
+			num of found terms: 2
+			link score: 84.735
+			page score: 1.177
+			crawl time: 2014-02-20 12:47:04.875660
+			size(Byte): 166418
+			return code: 200
+
+
+78. http://www.usatoday.com/sports/golf/
+			num of found terms: 2
+			link score: 84.735
+			page score: 0.991
+			crawl time: 2014-02-20 12:47:04.876408
+			size(Byte): 188596
+			return code: 200
+
+
+79. http://www.usatoday.com/sports/tennis/
+			num of found terms: 2
+			link score: 84.735
+			page score: 1.169
+			crawl time: 2014-02-20 12:47:06.663440
+			size(Byte): 187343
+			return code: 200
+
+
+80. http://www.usatoday.com/sports/boxing/
+			num of found terms: 2
+			link score: 84.735
+			page score: 0.936
+			crawl time: 2014-02-20 12:47:07.186497
+			size(Byte): 166334
+			return code: 200
+
+
+81. http://www.usatoday.com/sports/cycling/
+			num of found terms: 2
+			link score: 84.735
+			page score: 0.936
+			crawl time: 2014-02-20 12:47:07.191908
+			size(Byte): 171665
+			return code: 200
+
+
+82. http://www.usatoday.com/sports/horse-racing/
+			num of found terms: 2
+			link score: 84.735
+			page score: 0.882
+			crawl time: 2014-02-20 12:47:07.604496
+			size(Byte): 178942
+			return code: 200
+
+
+83. http://www.usatoday.com/sports/nba/
+			num of found terms: 2
+			link score: 102.548
+			page score: 1.004
+			crawl time: 2014-02-20 12:47:07.798080
+			size(Byte): 212920
+			return code: 200
+
+
+84. http://www.usatoday.com/sports/ncaaw/
+			num of found terms: 2
+			link score: 102.548
+			page score: 0.889
+			crawl time: 2014-02-20 12:47:07.832558
+			size(Byte): 171228
+			return code: 200
+
+
+85. http://www.usatoday.com/sports/mlb/
+			num of found terms: 2
+			link score: 102.548
+			page score: 1.101
+			crawl time: 2014-02-20 12:47:07.876785
+			size(Byte): 211955
+			return code: 200
+
+
+86. http://www.usatoday.com/sports/ncaaf/
+			num of found terms: 2
+			link score: 102.548
+			page score: 1.002
+			crawl time: 2014-02-20 12:47:07.913090
+			size(Byte): 211467
+			return code: 200
+
+
+87. http://www.usatoday.com/sports/ncaab/
+			num of found terms: 2
+			link score: 102.548
+			page score: 0.944
+			crawl time: 2014-02-20 12:47:07.972622
+			size(Byte): 234479
+			return code: 200
+
+
+88. http://www.usatoday.com/sports/nascar/
+			num of found terms: 2
+			link score: 102.548
+			page score: 0.971
+			crawl time: 2014-02-20 12:47:07.916842
+			size(Byte): 191451
+			return code: 200
+
+
+89. http://www.franchisesolutions.com/
+			num of found terms: 2
+			link score: 91.499
+			page score: 0.038
+			crawl time: 2014-02-20 12:47:07.880543
+			size(Byte): 80654
+			return code: 200
+
+
+90. http://www.usatoday.com/sports/nhl/
+			num of found terms: 2
+			link score: 102.548
+			page score: 1.100
+			crawl time: 2014-02-20 12:47:09.372890
+			size(Byte): 205782
+			return code: 200
+
+
+91. http://www.usatoday.com/sports/nfl/
+			num of found terms: 2
+			link score: 102.548
+			page score: 0.996
+			crawl time: 2014-02-20 12:47:07.867718
+			size(Byte): 229629
+			return code: 200
+
+
+92. http://www.usatoday.com/about-usaweekend
+			num of found terms: 2
+			link score: 99.506
+			page score: 2.043
+			crawl time: 2014-02-20 12:47:09.582910
+			size(Byte): 37249
+			return code: 200
+
+
+93. http://traveltips.usatoday.com/
+			num of found terms: 2
+			link score: 99.506
+			page score: 3.914
+			crawl time: 2014-02-20 12:47:09.657545
+			size(Byte): 44225
+			return code: 200
+
+
+94. http://pqasb.pqarchiver.com/USAToday/search.html?POE=FOOTER
+			num of found terms: 1
+			link score: 99.506
+			page score: 0.273
+			crawl time: 2014-02-20 12:47:09.628224
+			size(Byte): 33200
+			return code: 200
+
+
+95. http://service.usatoday.com/HomeSubscribeSWV2/
+			num of found terms: 1
+			link score: 99.506
+			page score: 2.000
+			crawl time: 2014-02-20 12:47:09.765766
+			size(Byte): 1562
+			return code: 200
+
+
+96. http://www.gannettreprints.com/
+			num of found terms: 0
+			link score: 99.506
+			page score: 0.000
+			crawl time: 2014-02-20 12:47:09.919790
+			size(Byte): 7858
+			return code: 200
+
+
+97. http://static.usatoday.com/en/home/
+			num of found terms: 1
+			link score: 99.506
+			page score: 1.000
+			crawl time: 2014-02-20 12:47:10.048776
+			size(Byte): 5241
+			return code: 200
+
+
+98. http://developer.usatoday.com/
+			num of found terms: 1
+			link score: 99.506
+			page score: 1.793
+			crawl time: 2014-02-20 12:47:10.197151
+			size(Byte): 36537
+			return code: 200
+
+
+99. http://www.usatoday.com/
+			num of found terms: 2
+			link score: 99.506
+			page score: 2.540
+			crawl time: 2014-02-20 12:47:10.768123
+			size(Byte): 214526
+			return code: 200
+
+
+100. http://usatodayeducation.com/k12/?POE=FOOTER
+			num of found terms: 2
+			link score: 99.506
+			page score: 2.741
+			crawl time: 2014-02-20 12:47:12.303374
+			size(Byte): 25616
+			return code: 200
+
+
+101. http://www.usatoday.com/editorial-policy
+			num of found terms: 2
+			link score: 99.506
+			page score: 2.043
+			crawl time: 2014-02-20 12:47:12.461920
+			size(Byte): 49242
+			return code: 200
+
+
+102. http://www.gannett.com/section/CAREERS&template=cover
+			num of found terms: 0
+			link score: 110.046
+			page score: 0.000
+			crawl time: 2014-02-20 12:47:12.728421
+			size(Byte): 27776
+			return code: 200
+
+
+103. http://usatoday30.usatoday.com/marketing/media_kit/pressroom/press_releases_home.html
+			num of found terms: 1
+			link score: 106.133
+			page score: 0.079
+			crawl time: 2014-02-20 12:47:12.759402
+			size(Byte): 17386
+			return code: 200
+
+
+104. http://www.usatoday.com/sports/fantasy/
+			num of found terms: 2
+			link score: 106.133
+			page score: 1.066
+			crawl time: 2014-02-20 12:47:12.715665
+			size(Byte): 203390
+			return code: 200
+
+
+105. http://www.usatoday.com/sports/olympics/2014/
+			num of found terms: 2
+			link score: 106.133
+			page score: 1.168
+			crawl time: 2014-02-20 12:47:12.741628
+			size(Byte): 242810
+			return code: 200
+
+
+106. http://www.youtube.com/usatoday
+			num of found terms: 2
+			link score: 106.133
+			page score: 0.350
+			crawl time: 2014-02-20 12:47:13.197422
+			size(Byte): 223932
+			return code: 200
+
+
+107. http://usatoday.tumblr.com/
+			num of found terms: 1
+			link score: 110.046
+			page score: 0.611
+			crawl time: 2014-02-20 12:47:13.358501
+			size(Byte): 55609
+			return code: 200
+
+
+108. http://bnqt.com
+			num of found terms: 1
+			link score: 106.133
+			page score: 0.686
+			crawl time: 2014-02-20 12:47:13.299299
+			size(Byte): 70087
+			return code: 200
+
+
+109. https://plus.google.com/%2BUSATODAY/posts
+			num of found terms: 1
+			link score: 106.133
+			page score: 0.980
+			crawl time: 2014-02-20 12:47:13.039728
+			size(Byte): 454901
+			return code: 200
+
+
+110. http://www.usatoday.com/story/todayinthesky/2014/02/20/united-to-use-stretched-dreamliner-for-australia-flights/5638745/
+			num of found terms: 2
+			link score: 74.890
+			page score: 1.754
+			crawl time: 2014-02-20 12:47:16.918483
+			size(Byte): 194156
+			return code: 200
+
+
+111. http://www.usatoday.com/story/theoval/2014/02/20/naral-liberal-groups-boggs-obama-judge/5641037/
+			num of found terms: 2
+			link score: 67.313
+			page score: 3.215
+			crawl time: 2014-02-20 12:47:17.519589
+			size(Byte): 74628
+			return code: 200
+
+
+112. http://www.usatoday.com/blog/todayinthesky/
+			num of found terms: 2
+			link score: 62.996
+			page score: 2.168
+			crawl time: 2014-02-20 12:47:17.535926
+			size(Byte): 69757
+			return code: 200
+
+
+113. http://www.usatoday.com/story/nation/2014/02/20/veterans-compensation-checks-advanced-funding/5604415/
+			num of found terms: 2
+			link score: 61.425
+			page score: 4.034
+			crawl time: 2014-02-20 12:47:17.540387
+			size(Byte): 71272
+			return code: 200
+
+
+114. http://www.usatoday.com/story/idolchatter/2014/02/19/american-idol-recap--boys-semifinals/5624339/
+			num of found terms: 2
+			link score: 61.227
+			page score: 3.934
+			crawl time: 2014-02-20 12:47:17.537183
+			size(Byte): 74246
+			return code: 200
+
+
+115. http://www.usatoday.com/blog/dispatches/
+			num of found terms: 2
+			link score: 61.242
+			page score: 2.251
+			crawl time: 2014-02-20 12:47:17.712082
+			size(Byte): 68883
+			return code: 200
+
+
+116. http://onpolitics.usatoday.com/
+			num of found terms: 1
+			link score: 58.467
+			page score: 1.887
+			crawl time: 2014-02-20 12:47:18.106831
+			size(Byte): 68817
+			return code: 200
+
+
+117. http://www.usatoday.com/story/popcandy/2014/02/20/sword-swallowers-day/5640589/
+			num of found terms: 2
+			link score: 62.659
+			page score: 3.900
+			crawl time: 2014-02-20 12:47:20.552388
+			size(Byte): 64776
+			return code: 200
+
+
+118. http://www.usatoday.com/blog/idolchatter/
+			num of found terms: 2
+			link score: 65.288
+			page score: 1.713
+			crawl time: 2014-02-20 12:47:20.565563
+			size(Byte): 69394
+			return code: 200
+
+
+119. http://www.usatoday.com/story/driveon/2014/02/08/show-us-your-car-1929/5311677/
+			num of found terms: 2
+			link score: 61.354
+			page score: 4.271
+			crawl time: 2014-02-20 12:47:20.611626
+			size(Byte): 75335
+			return code: 200
+
+
+120. http://www.usatoday.com/blog/popcandy/
+			num of found terms: 2
+			link score: 61.354
+			page score: 1.701
+			crawl time: 2014-02-20 12:47:20.618353
+			size(Byte): 67971
+			return code: 200
+
+
+121. http://www.usatoday.com/blog/theoval/
+			num of found terms: 2
+			link score: 66.101
+			page score: 1.701
+			crawl time: 2014-02-20 12:47:20.610668
+			size(Byte): 69430
+			return code: 200
+
+
+122. http://www.usatoday.com/story/happyeverafter/2014/02/20/gallery-books-indie-bus-tour-cole-probst-lauren/5624829/
+			num of found terms: 2
+			link score: 62.659
+			page score: 3.966
+			crawl time: 2014-02-20 12:47:23.375594
+			size(Byte): 64732
+			return code: 200
+
+
+123. http://www.usatoday.com/sports/olympics/2014/schedule/
+			num of found terms: 2
+			link score: 49.594
+			page score: 0.821
+			crawl time: 2014-02-20 12:47:23.575418
+			size(Byte): 108626
+			return code: 200
+
+
+124. http://www.usatoday.com/media/cinematic/video/5608003/russian-tv-captures-pussy-riot-whippings-usa-now/
+			num of found terms: 2
+			link score: 42.976
+			page score: 4.824
+			crawl time: 2014-02-20 12:47:23.596773
+			size(Byte): 38071
+			return code: 200
+
+
+125. http://www.usatoday.com/sports/fantasy/baseball/
+			num of found terms: 2
+			link score: 42.581
+			page score: 1.081
+			crawl time: 2014-02-20 12:47:23.573865
+			size(Byte): 207075
+			return code: 200
+
+
+126. http://www.usatoday.com/media/latest/videos/home/
+			num of found terms: 2
+			link score: 55.712
+			page score: 1.965
+			crawl time: 2014-02-20 12:47:23.692037
+			size(Byte): 89348
+			return code: 200
+
+
+127. https://foursquare.com/
+			num of found terms: 1
+			link score: 41.317
+			page score: 0.028
+			crawl time: 2014-02-20 12:47:23.898077
+			size(Byte): 74123
+			return code: 200
+
+
+128. http://www.usatoday.com/blog/happyeverafter/
+			num of found terms: 2
+			link score: 70.434
+			page score: 1.701
+			crawl time: 2014-02-20 12:47:24.648307
+			size(Byte): 70018
+			return code: 200
+
+
+129. http://www.tripology.com
+			num of found terms: 2
+			link score: 58.443
+			page score: 1.056
+			crawl time: 2014-02-20 12:47:24.888837
+			size(Byte): 22461
+			return code: 200
+
+
+130. http://www.usatoday.com/sports/fantasy/football/
+			num of found terms: 2
+			link score: 42.581
+			page score: 1.027
+			crawl time: 2014-02-20 12:47:25.986298
+			size(Byte): 206777
+			return code: 200
+
+
+131. http://www.usatoday.com/conversation-guidelines/
+			num of found terms: 2
+			link score: 41.526
+			page score: 1.806
+			crawl time: 2014-02-20 12:47:26.172236
+			size(Byte): 42440
+			return code: 200
+
+
+132. http://www.usatoday.com/story/life/people/2014/02/20/brian-williams-apologizes-to-arsenio-hall-for-snub/5635291/
+			num of found terms: 2
+			link score: 28.822
+			page score: 4.172
+			crawl time: 2014-02-20 12:47:26.645306
+			size(Byte): 67429
+			return code: 200
+
+
+133. http://www.usatoday.com/experience/food-and-wine/best-of-food-and-wine/travelers-table-dumplings-around-the-world/5607327/
+			num of found terms: 2
+			link score: 26.486
+			page score: 98.000
+			crawl time: 2014-02-20 12:47:26.681428
+			size(Byte): 92763
+			return code: 200
+
+
+134. http://www.usatoday.com/sports/ncaab/scores/
+			num of found terms: 2
+			link score: 29.284
+			page score: 0.907
+			crawl time: 2014-02-20 12:47:26.696439
+			size(Byte): 107684
+			return code: 200
+
+
+135. http://www.usatoday.com/sports/olympics/2014/medals/
+			num of found terms: 2
+			link score: 35.601
+			page score: 0.544
+			crawl time: 2014-02-20 12:47:26.700317
+			size(Byte): 161045
+			return code: 200
+
+
+136. http://www.usatoday.com/rightnow/?q=travel
+			num of found terms: 2
+			link score: 27.795
+			page score: 1.075
+			crawl time: 2014-02-20 12:47:26.703436
+			size(Byte): 276879
+			return code: 200
+
+
+137. http://www.usatoday.com/sports/nba/scores/
+			num of found terms: 2
+			link score: 29.284
+			page score: 0.912
+			crawl time: 2014-02-20 12:47:26.721219
+			size(Byte): 92671
+			return code: 200
+
+
+138. http://www.usatoday.com/topic/b38629d6-6ed7-4912-b5eb-356d7c892ca7/2014-olympic-videos/
+			num of found terms: 2
+			link score: 27.377
+			page score: 2.655
+			crawl time: 2014-02-20 12:47:26.720126
+			size(Byte): 113610
+			return code: 200
+
+
+139. http://www.usatoday.com/experience/caribbean/
+			num of found terms: 2
+			link score: 34.556
+			page score: 82.000
+			crawl time: 2014-02-20 12:47:26.921870
+			size(Byte): 22893
+			return code: 200
+
+
+140. http://www.usatoday.com/sports/ncaab/schedule/
+			num of found terms: 2
+			link score: 26.559
+			page score: 0.899
+			crawl time: 2014-02-20 12:47:26.693618
+			size(Byte): 145491
+			return code: 200
+
+
+141. http://www.usatoday.com/sports/olympics/2014/sports/3870461/snowboarding/
+			num of found terms: 2
+			link score: 30.015
+			page score: 0.893
+			crawl time: 2014-02-20 12:47:29.707149
+			size(Byte): 108298
+			return code: 200
+
+
+142. http://www.usatoday.com/sports/olympics/2014/sports/3870399/ski-jumping/
+			num of found terms: 2
+			link score: 30.015
+			page score: 0.902
+			crawl time: 2014-02-20 12:47:31.419861
+			size(Byte): 104876
+			return code: 200
+
+
+143. http://www.usatoday.com/sports/olympics/2014/sports/3870157/luge/
+			num of found terms: 2
+			link score: 30.015
+			page score: 0.893
+			crawl time: 2014-02-20 12:47:31.437054
+			size(Byte): 105731
+			return code: 200
+
+
+144. http://www.usatoday.com/sports/olympics/2014/countries/
+			num of found terms: 2
+			link score: 30.015
+			page score: 0.841
+			crawl time: 2014-02-20 12:47:31.565239
+			size(Byte): 108050
+			return code: 200
+
+
+145. http://www.usatoday.com/sports/olympics/2014/athletes/
+			num of found terms: 2
+			link score: 30.015
+			page score: 0.669
+			crawl time: 2014-02-20 12:47:32.045912
+			size(Byte): 210216
+			return code: 200
+
+
+146. http://www.usatoday.com/sports/olympics/2014/sports/5064671/nordic-combined/
+			num of found terms: 2
+			link score: 30.015
+			page score: 0.893
+			crawl time: 2014-02-20 12:47:32.240760
+			size(Byte): 105110
+			return code: 200
+
+
+147. http://www.usatoday.com/sports/olympics/2014/sports/3965315/ice-hockey-mens/
+			num of found terms: 2
+			link score: 40.198
+			page score: 0.889
+			crawl time: 2014-02-20 12:47:32.731053
+			size(Byte): 106557
+			return code: 200
+
+
+148. http://www.usatoday.com/sports/olympics/2014/sports/3871043/ice-hockey-womens/
+			num of found terms: 2
+			link score: 40.198
+			page score: 0.889
+			crawl time: 2014-02-20 12:47:32.915437
+			size(Byte): 105552
+			return code: 200
+
+
+149. http://www.usatoday.com/sports/olympics/2014/sports/3869333/biathlon/
+			num of found terms: 2
+			link score: 40.198
+			page score: 0.898
+			crawl time: 2014-02-20 12:47:34.344178
+			size(Byte): 105521
+			return code: 200
+
+
+150. http://www.usatoday.com/topic/45a9dc65-c6c7-4ba4-8ebd-6e0490987a56/olympic-innovations/
+			num of found terms: 2
+			link score: 40.198
+			page score: 1.986
+			crawl time: 2014-02-20 12:47:34.761836
+			size(Byte): 49420
+			return code: 200
+
+
+151. http://www.usatoday.com/sports/olympics/2014/sports/4165431/cross-country/
+			num of found terms: 2
+			link score: 40.198
+			page score: 0.893
+			crawl time: 2014-02-20 12:47:34.952048
+			size(Byte): 105105
+			return code: 200
+
+
+152. http://www.usatoday.com/sports/olympics/2014/sports/3868843/alpine-skiing/
+			num of found terms: 2
+			link score: 40.198
+			page score: 0.893
+			crawl time: 2014-02-20 12:47:35.104968
+			size(Byte): 108389
+			return code: 200
+
+
+153. http://www.usatoday.com/topic/50417bb9-42da-4bc6-84e4-1adbe5c509ac/25-hopefuls-for-sochi-olympics/
+			num of found terms: 2
+			link score: 49.121
+			page score: 1.988
+			crawl time: 2014-02-20 12:47:35.744390
+			size(Byte): 108092
+			return code: 200
+
+
+154. http://bnqt.com/
+			num of found terms: 1
+			link score: 38.407
+			page score: 0.686
+			crawl time: 2014-02-20 12:47:35.793802
+			size(Byte): 70137
+			return code: 200
+
+
+155. http://www.kffl.com/fantasy-baseball/
+			num of found terms: 1
+			link score: 38.116
+			page score: 0.132
+			crawl time: 2014-02-20 12:47:36.349702
+			size(Byte): 75887
+			return code: 200
+
+
+156. http://www.baseballhq.com/
+			num of found terms: 1
+			link score: 38.116
+			page score: 0.084
+			crawl time: 2014-02-20 12:47:36.474485
+			size(Byte): 120201
+			return code: 200
+
+
+157. http://www.usatoday.com/sports/olympics/2014/medals/projections/
+			num of found terms: 2
+			link score: 49.121
+			page score: 0.834
+			crawl time: 2014-02-20 12:47:37.288727
+			size(Byte): 141359
+			return code: 200
+
+
+158. http://www.usatoday.com/sports/nba/rankings/
+			num of found terms: 2
+			link score: 38.873
+			page score: 0.851
+			crawl time: 2014-02-20 12:47:38.781787
+			size(Byte): 120149
+			return code: 200
+
+
+159. http://www.kffl.com/fantasy-hockey/
+			num of found terms: 1
+			link score: 38.134
+			page score: 0.140
+			crawl time: 2014-02-20 12:47:38.885223
+			size(Byte): 74422
+			return code: 200
+
+
+160. http://www.kffl.com/fantasy-basketball/
+			num of found terms: 1
+			link score: 38.134
+			page score: 0.139
+			crawl time: 2014-02-20 12:47:38.908828
+			size(Byte): 77828
+			return code: 200
+
+
+161. http://www.kffl.com/nascar/
+			num of found terms: 1
+			link score: 38.134
+			page score: 0.131
+			crawl time: 2014-02-20 12:47:38.931605
+			size(Byte): 76165
+			return code: 200
+
+
+162. http://www.kffl.com/fantasy-football/
+			num of found terms: 1
+			link score: 39.293
+			page score: 0.129
+			crawl time: 2014-02-20 12:47:38.931336
+			size(Byte): 75658
+			return code: 200
+
+
+163. http://www.thehuddle.com/
+			num of found terms: 1
+			link score: 38.896
+			page score: 0.194
+			crawl time: 2014-02-20 12:47:38.947109
+			size(Byte): 61882
+			return code: 200
+
+
+164. http://www.usatoday.com/sports/nfl/sagarin/
+			num of found terms: 2
+			link score: 38.896
+			page score: 0.896
+			crawl time: 2014-02-20 12:47:39.864136
+			size(Byte): 133785
+			return code: 200
+
+
+165. http://www.usatoday.com/sports/nfl/rankings/
+			num of found terms: 2
+			link score: 38.865
+			page score: 0.873
+			crawl time: 2014-02-20 12:47:41.573490
+			size(Byte): 121113
+			return code: 200
+
+
+166. http://www.sportsnetwork.com/merge/tsnform.aspx?c=usatoday&page=nfl/stats/transactions2.aspx?sc=AB
+			num of found terms: 2
+			link score: 38.896
+			page score: 168.000
+			crawl time: 2014-02-20 12:47:41.592416
+			size(Byte): 51506
+			return code: 200
+
+
+167. http://www.sportsnetwork.com/merge/tsnform.aspx?c=usatoday&page=mlb/stat/transactions2.aspx?sc=AA
+			num of found terms: 2
+			link score: 38.950
+			page score: 144.000
+			crawl time: 2014-02-20 12:47:41.592928
+			size(Byte): 54532
+			return code: 200
+
+
+168. http://www.usatoday.com/sports/college/schools/finances/
+			num of found terms: 2
+			link score: 40.488
+			page score: 0.954
+			crawl time: 2014-02-20 12:47:41.753225
+			size(Byte): 243746
+			return code: 200
+
+
+169. http://www.sportsnetwork.com/merge/tsnform.aspx?c=usatoday&page=bask-w/odds/odds.aspx?sc=BU%2Cp=1%2Cdate=
+			num of found terms: 2
+			link score: 40.488
+			page score: 90.000
+			crawl time: 2014-02-20 12:47:41.926976
+			size(Byte): 29703
+			return code: 200
+
+
+170. http://www.sportsnetwork.com/merge/tsnform.aspx?c=usatoday&page=bask-w/injuries/injury.aspx
+			num of found terms: 2
+			link score: 40.488
+			page score: 90.000
+			crawl time: 2014-02-20 12:47:42.420375
+			size(Byte): 37719
+			return code: 200
+
+
+171. http://www.usatoday.com/sports/college/salaries/
+			num of found terms: 2
+			link score: 40.488
+			page score: 0.944
+			crawl time: 2014-02-20 12:47:42.411776
+			size(Byte): 235281
+			return code: 200
+
+
+172. http://www.usatoday.com/sports/wnba/standings/
+			num of found terms: 2
+			link score: 40.488
+			page score: 0.932
+			crawl time: 2014-02-20 12:47:43.221964
+			size(Byte): 98762
+			return code: 200
+
+
+173. http://www.usatoday.com/sports/wnba/statistics/
+			num of found terms: 2
+			link score: 40.488
+			page score: 0.932
+			crawl time: 2014-02-20 12:47:43.321184
+			size(Byte): 105661
+			return code: 200
+
+
+174. http://www.vividseats.com/sports/horse-racing/
+			num of found terms: 0
+			link score: 40.488
+			page score: 0.000
+			crawl time: 2014-02-20 12:47:44.552924
+			size(Byte): 27880
+			return code: 200
+
+
+175. http://hoopshype.com/?source=hoopsworld
+			num of found terms: 0
+			link score: 41.160
+			page score: 0.000
+			crawl time: 2014-02-20 12:47:45.119848
+			size(Byte): 144
+			return code: 200
+
+
+176. http://hoopshype.com/
+			num of found terms: 1
+			link score: 41.437
+			page score: 0.062
+			crawl time: 2014-02-20 12:47:45.505878
+			size(Byte): 130503
+			return code: 200
+
+
+177. http://www.vividseats.com/sports/boxing-fighting/
+			num of found terms: 0
+			link score: 44.250
+			page score: 0.000
+			crawl time: 2014-02-20 12:47:46.039944
+			size(Byte): 28566
+			return code: 200
+
+
+178. http://www.vividseats.com/sports/tennis/
+			num of found terms: 0
+			link score: 44.250
+			page score: 0.000
+			crawl time: 2014-02-20 12:47:46.055542
+			size(Byte): 31481
+			return code: 200
+
+
+179. http://sportsnetwork.com/merge/tsnform.aspx?c=usatoday&page=boxing/sched/schedule.htm
+			num of found terms: 2
+			link score: 44.250
+			page score: 82.000
+			crawl time: 2014-02-20 12:47:46.069253
+			size(Byte): 35597
+			return code: 200
+
+
+180. http://sportsnetwork.com/merge/tsnform.aspx?c=usatoday&page=boxing/stat/wbarank.htm
+			num of found terms: 2
+			link score: 44.250
+			page score: 82.000
+			crawl time: 2014-02-20 12:47:46.079691
+			size(Byte): 49258
+			return code: 200
+
+
+181. http://sportsnetwork.com/merge/tsnform.aspx?c=usatoday&page=boxing/stat/champions.htm
+			num of found terms: 2
+			link score: 44.250
+			page score: 82.000
+			crawl time: 2014-02-20 12:47:46.151321
+			size(Byte): 33415
+			return code: 200
+
+
+182. http://www.usatoday.com/sports/wnba/schedule/
+			num of found terms: 2
+			link score: 44.250
+			page score: 0.923
+			crawl time: 2014-02-20 12:47:47.398099
+			size(Byte): 100678
+			return code: 200
+
+
+183. http://www.usatoday.com/sports/college/salaries/ncaab/coach/
+			num of found terms: 2
+			link score: 45.194
+			page score: 0.941
+			crawl time: 2014-02-20 12:47:47.712391
+			size(Byte): 164665
+			return code: 200
+
+
+184. http://www.usatoday.com/sports/college/salaries/ncaaf/coach/
+			num of found terms: 2
+			link score: 45.194
+			page score: 0.944
+			crawl time: 2014-02-20 12:47:47.723313
+			size(Byte): 235281
+			return code: 200
+
+
+185. http://www.usatoday.com/sports/wnba/scores/
+			num of found terms: 2
+			link score: 44.250
+			page score: 0.965
+			crawl time: 2014-02-20 12:47:48.338408
+			size(Byte): 95743
+			return code: 200
+
+
+186. http://www.vividseats.com/mls/
+			num of found terms: 1
+			link score: 48.024
+			page score: 0.010
+			crawl time: 2014-02-20 12:47:48.495791
+			size(Byte): 29862
+			return code: 200
+
+
+187. http://www.sportsnetwork.com/merge/tsnform.aspx?c=usatoday&page=soc-mls/stat/index2.aspx%20
+			num of found terms: 2
+			link score: 48.024
+			page score: 114.000
+			crawl time: 2014-02-20 12:47:48.517880
+			size(Byte): 30487
+			return code: 200
+
+
+188. http://www.sportsnetwork.com/merge/tsnform.aspx?c=usatoday&page=soc-mls/injury/injury.htm
+			num of found terms: 2
+			link score: 48.024
+			page score: 86.000
+			crawl time: 2014-02-20 12:47:48.548867
+			size(Byte): 35320
+			return code: 200
+
+
+189. http://www.sportsnetwork.com/merge/tsnform.aspx?c=usatoday&page=soc-mls/stand/standings.aspx
+			num of found terms: 2
+			link score: 48.024
+			page score: 124.000
+			crawl time: 2014-02-20 12:47:48.563197
+			size(Byte): 39161
+			return code: 200
+
+
+190. http://www.sportsnetwork.com/merge/tsnform.aspx?c=usatoday&page=tennis-m/stat/index.aspx
+			num of found terms: 2
+			link score: 48.024
+			page score: 148.000
+			crawl time: 2014-02-20 12:47:48.821752
+			size(Byte): 32593
+			return code: 200
+
+
+191. http://sportsnetwork.com/merge/tsnform.aspx?c=usatoday&page=tennis-m/stat/atp-entry.htm
+			num of found terms: 2
+			link score: 48.024
+			page score: 128.000
+			crawl time: 2014-02-20 12:47:48.842571
+			size(Byte): 67509
+			return code: 200
+
+
+192. http://sportsnetwork.com/merge/tsnform.aspx?c=usatoday&page=tennis-m/scores/live/scoreboard.aspx?date=
+			num of found terms: 2
+			link score: 48.024
+			page score: 186.000
+			crawl time: 2014-02-20 12:47:49.133702
+			size(Byte): 51954
+			return code: 200
+
+
+193. http://sportsnetwork.com/merge/tsnform.aspx?c=usatoday&page=tennis-m/stat/schedule2.aspx?sportcode=bc
+			num of found terms: 2
+			link score: 48.024
+			page score: 300.000
+			crawl time: 2014-02-20 12:47:49.211311
+			size(Byte): 83856
+			return code: 200
+
+
+194. http://www.usatoday.com/sports/mls/sagarin/
+			num of found terms: 2
+			link score: 48.024
+			page score: 0.896
+			crawl time: 2014-02-20 12:47:50.531964
+			size(Byte): 115809
+			return code: 200
+
+
+195. http://www.usatoday.com/sports/mls/teams/
+			num of found terms: 2
+			link score: 48.024
+			page score: 0.949
+			crawl time: 2014-02-20 12:47:51.369604
+			size(Byte): 86630
+			return code: 200
+
+
+196. http://www.vividseats.com/nfl/
+			num of found terms: 0
+			link score: 49.889
+			page score: 0.000
+			crawl time: 2014-02-20 12:47:51.516916
+			size(Byte): 31391
+			return code: 200
+
+
+197. http://www.vividseats.com/nhl-hockey/
+			num of found terms: 0
+			link score: 49.889
+			page score: 0.000
+			crawl time: 2014-02-20 12:47:51.519515
+			size(Byte): 31697
+			return code: 200
+
+
+198. http://www.vividseats.com/mlb-baseball/
+			num of found terms: 0
+			link score: 49.889
+			page score: 0.000
+			crawl time: 2014-02-20 12:47:51.521959
+			size(Byte): 32047
+			return code: 200
+
+
+199. http://www.vividseats.com/nba-basketball/
+			num of found terms: 0
+			link score: 49.889
+			page score: 0.000
+			crawl time: 2014-02-20 12:47:51.537686
+			size(Byte): 31174
+			return code: 200
+
+
+200. http://www.vividseats.com/nascar-racing/
+			num of found terms: 1
+			link score: 49.879
+			page score: 0.005
+			crawl time: 2014-02-20 12:47:51.626360
+			size(Byte): 42361
+			return code: 200
+
+
+201. http://www.vividseats.com/ncaab/
+			num of found terms: 1
+			link score: 49.879
+			page score: 0.004
+			crawl time: 2014-02-20 12:47:51.645822
+			size(Byte): 47932
+			return code: 200
+
+
+202. http://www.vividseats.com/ncaaf/
+			num of found terms: 1
+			link score: 49.879
+			page score: 0.004
+			crawl time: 2014-02-20 12:47:51.649517
+			size(Byte): 43971
+			return code: 200
+
+
+203. http://www.usatoday.com/sports/mls/schedule/
+			num of found terms: 2
+			link score: 49.869
+			page score: 0.951
+			crawl time: 2014-02-20 12:47:53.143034
+			size(Byte): 89950
+			return code: 200
+
+
+204. http://www.usatoday.com/sports/mls/scores/
+			num of found terms: 2
+			link score: 49.869
+			page score: 0.971
+			crawl time: 2014-02-20 12:47:53.770788
+			size(Byte): 99000
+			return code: 200
+
+
+205. http://www.usatoday.com/sports/ncaab/sagarin/
+			num of found terms: 2
+			link score: 51.790
+			page score: 0.894
+			crawl time: 2014-02-20 12:47:53.868413
+			size(Byte): 242443
+			return code: 200
+
+
+206. http://www.sportsnetwork.com/Merge/error/error.htm?aspxerrorpath=/merge/tsnform.aspx
+			num of found terms: 0
+			link score: 51.790
+			page score: 0.000
+			crawl time: 2014-02-20 12:47:53.930649
+			size(Byte): 392
+			return code: 200
+
+
+207. http://www.vividseats.com/pga-golf/
+			num of found terms: 0
+			link score: 51.790
+			page score: 0.000
+			crawl time: 2014-02-20 12:47:53.931628
+			size(Byte): 35185
+			return code: 200
+
+
+208. http://www.usatoday.com/sports/golf/pga/leaderboard/
+			num of found terms: 2
+			link score: 51.790
+			page score: 0.937
+			crawl time: 2014-02-20 12:47:54.056099
+			size(Byte): 89840
+			return code: 200
+
+
+209. http://thebiglead.com/category/college-basketball/
+			num of found terms: 1
+			link score: 51.790
+			page score: 0.597
+			crawl time: 2014-02-20 12:47:58.369137
+			size(Byte): 76332
+			return code: 200
+
+
+210. http://www.usatoday.com/sports/ncaab/polls/
+			num of found terms: 2
+			link score: 53.621
+			page score: 1.014
+			crawl time: 2014-02-20 12:47:58.596171
+			size(Byte): 128107
+			return code: 200
+
+
+211. http://www.sportsnetwork.com/merge/tsnform.aspx?c=usatoday&page=gaming/liveodds2CBASK.aspx
+			num of found terms: 2
+			link score: 53.621
+			page score: 60.000
+			crawl time: 2014-02-20 12:47:58.600067
+			size(Byte): 23494
+			return code: 200
+
+
+212. http://www.usatoday.com/sports/ncaab/standings/
+			num of found terms: 2
+			link score: 53.621
+			page score: 0.949
+			crawl time: 2014-02-20 12:47:58.629110
+			size(Byte): 226974
+			return code: 200
+
+
+213. http://www.vividseats.com/sports/ultimate-fighting-championship-tickets.html
+			num of found terms: 0
+			link score: 53.621
+			page score: 0.000
+			crawl time: 2014-02-20 12:47:58.796315
+			size(Byte): 35212
+			return code: 200
+
+
+214. http://thebiglead.com/category/racing-nascar/
+			num of found terms: 1
+			link score: 53.621
+			page score: 0.592
+			crawl time: 2014-02-20 12:47:59.026109
+			size(Byte): 76150
+			return code: 200
+
+
+215. http://www.usatodaysportsevents.com/programs/ufc-vip-experience?utm_campaign=USA%2BToday%2BSports&utm_medium=Sub%2BNav%2BUFC&utm_source=referrals
+			num of found terms: 1
+			link score: 53.621
+			page score: 0.672
+			crawl time: 2014-02-20 12:47:59.619039
+			size(Byte): 46757
+			return code: 200
+
+
+216. http://www.usatoday.com/sports/nascar/sagarin/
+			num of found terms: 2
+			link score: 53.621
+			page score: 0.896
+			crawl time: 2014-02-20 12:48:00.038772
+			size(Byte): 99566
+			return code: 200
+
+
+217. http://www.sportsnetwork.com/merge/tsnform.aspx?c=usatoday&page=nascar-b/stat/driverleaders.aspx?sportcode=AS
+			num of found terms: 2
+			link score: 53.621
+			page score: 358.000
+			crawl time: 2014-02-20 12:48:00.057431
+			size(Byte): 107019
+			return code: 200
+
+
+218. http://www.usatoday.com/sports/nascar/schedule/
+			num of found terms: 2
+			link score: 56.481
+			page score: 0.951
+			crawl time: 2014-02-20 12:48:01.595325
+			size(Byte): 93624
+			return code: 200
+
+
+219. http://www.usatoday.com/sports/nascar/results/
+			num of found terms: 2
+			link score: 56.481
+			page score: 0.951
+			crawl time: 2014-02-20 12:48:01.598828
+			size(Byte): 93596
+			return code: 200
+
+
+220. http://www.sportsnetwork.com/merge/tsnform.aspx?c=usatoday&page=nascar/stat/index.aspx
+			num of found terms: 2
+			link score: 56.481
+			page score: 108.000
+			crawl time: 2014-02-20 12:48:01.616140
+			size(Byte): 27423
+			return code: 200
+
+
+221. http://www.sportsnetwork.com/merge/tsnform.aspx?c=usatoday&page=nascar/odds/wsex.htm
+			num of found terms: 2
+			link score: 56.481
+			page score: 96.000
+			crawl time: 2014-02-20 12:48:01.633893
+			size(Byte): 35858
+			return code: 200
+
+
+222. http://www.sportsnetwork.com/merge/tsnform.aspx?c=usatoday&page=cfoot/injuries/confList.aspx
+			num of found terms: 2
+			link score: 56.481
+			page score: 174.000
+			crawl time: 2014-02-20 12:48:01.660567
+			size(Byte): 33706
+			return code: 200
+
+
+223. http://thebiglead.com/category/college-football/
+			num of found terms: 1
+			link score: 56.481
+			page score: 0.597
+			crawl time: 2014-02-20 12:48:02.335730
+			size(Byte): 75842
+			return code: 200
+
+
+224. http://www.usatoday.com/sports/ncaaf/polls/
+			num of found terms: 2
+			link score: 56.481
+			page score: 0.942
+			crawl time: 2014-02-20 12:48:02.962794
+			size(Byte): 132281
+			return code: 200
+
+
+225. http://www.usatoday.com/sports/ncaaf/sagarin/
+			num of found terms: 2
+			link score: 56.481
+			page score: 0.892
+			crawl time: 2014-02-20 12:48:03.061182
+			size(Byte): 202204
+			return code: 200
+
+
+226. http://www.sportsnetwork.com/merge/tsnform.aspx?c=usatoday&page=nhl/injuries/injury.aspx
+			num of found terms: 2
+			link score: 60.216
+			page score: 136.000
+			crawl time: 2014-02-20 12:48:05.404150
+			size(Byte): 86404
+			return code: 200
+
+
+227. http://www.usatoday.com/sports/ncaaf/schedule/
+			num of found terms: 2
+			link score: 60.216
+			page score: 0.664
+			crawl time: 2014-02-20 12:48:05.730223
+			size(Byte): 152064
+			return code: 200
+
+
+228. http://www.sportsnetwork.com/merge/tsnform.aspx?c=usatoday&page=gaming/liveodds2CFOOT.aspx
+			num of found terms: 2
+			link score: 60.216
+			page score: 60.000
+			crawl time: 2014-02-20 12:48:05.749260
+			size(Byte): 23494
+			return code: 200
+
+
+229. http://www.sportsnetwork.com/merge/tsnform.aspx?c=usatoday&page=nhl/stats/transactions2.aspx?sc=AD
+			num of found terms: 2
+			link score: 60.216
+			page score: 140.000
+			crawl time: 2014-02-20 12:48:05.779372
+			size(Byte): 46315
+			return code: 200
+
+
+230. http://www.usatoday.com/sports/nhl/rankings/
+			num of found terms: 2
+			link score: 60.216
+			page score: 0.951
+			crawl time: 2014-02-20 12:48:06.322264
+			size(Byte): 116714
+			return code: 200
+
+
+231. http://thebiglead.com/category/nhl/
+			num of found terms: 1
+			link score: 60.216
+			page score: 0.608
+			crawl time: 2014-02-20 12:48:06.826337
+			size(Byte): 75805
+			return code: 200
+
+
+232. http://www.usatoday.com/sports/ncaaf/standings/
+			num of found terms: 2
+			link score: 60.216
+			page score: 0.718
+			crawl time: 2014-02-20 12:48:07.177479
+			size(Byte): 147688
+			return code: 200
+
+
+233. http://www.usatoday.com/sports/nhl/schedule/
+			num of found terms: 2
+			link score: 62.550
+			page score: 0.952
+			crawl time: 2014-02-20 12:48:08.752428
+			size(Byte): 95287
+			return code: 200
+
+
+234. http://www.sportsnetwork.com/merge/tsnform.aspx?c=usatoday&page=gaming/liveodds2NHL.aspx
+			num of found terms: 2
+			link score: 62.550
+			page score: 60.000
+			crawl time: 2014-02-20 12:48:08.777577
+			size(Byte): 23494
+			return code: 200
+
+
+235. http://www.sportsnetwork.com/merge/tsnform.aspx?c=usatoday&page=nba/stats/transactions2.aspx?sc=AC
+			num of found terms: 2
+			link score: 62.550
+			page score: 166.000
+			crawl time: 2014-02-20 12:48:08.921153
+			size(Byte): 71231
+			return code: 200
+
+
+236. http://thebiglead.com/category/nba/
+			num of found terms: 1
+			link score: 62.550
+			page score: 0.605
+			crawl time: 2014-02-20 12:48:09.179435
+			size(Byte): 75297
+			return code: 200
+
+
+237. http://www.sportsnetwork.com/merge/tsnform.aspx?c=usatoday&page=nba/injuries/injury.aspx
+			num of found terms: 2
+			link score: 62.550
+			page score: 162.000
+			crawl time: 2014-02-20 12:48:09.465632
+			size(Byte): 77206
+			return code: 200
+
+
+238. http://www.usatodaysportsevents.com/programs/nba-events?utm_campaign=USA%2BToday%2BSports&utm_medium=Sub%2BNav%2BNBA%2BEvents&utm_source=referrals
+			num of found terms: 1
+			link score: 62.550
+			page score: 0.629
+			crawl time: 2014-02-20 12:48:09.859411
+			size(Byte): 45773
+			return code: 200
+
+
+239. http://www.usatoday.com/sports/nhl/standings/
+			num of found terms: 2
+			link score: 62.550
+			page score: 0.927
+			crawl time: 2014-02-20 12:48:10.274303
+			size(Byte): 106965
+			return code: 200
+
+
+240. http://www.usatoday.com/sports/nba/sagarin/
+			num of found terms: 2
+			link score: 62.550
+			page score: 0.896
+			crawl time: 2014-02-20 12:48:09.967758
+			size(Byte): 128430
+			return code: 200
+
+
+241. http://www.sportsnetwork.com/merge/tsnform.aspx?c=usatoday&page=gaming/liveodds2NBA.aspx
+			num of found terms: 2
+			link score: 65.325
+			page score: 60.000
+			crawl time: 2014-02-20 12:48:11.807946
+			size(Byte): 23494
+			return code: 200
+
+
+242. http://www.usatoday.com/sports/nba/standings/
+			num of found terms: 2
+			link score: 65.325
+			page score: 0.864
+			crawl time: 2014-02-20 12:48:12.193481
+			size(Byte): 108953
+			return code: 200
+
+
+243. http://www.usatoday.com/sports/nba/schedule/
+			num of found terms: 2
+			link score: 65.325
+			page score: 0.798
+			crawl time: 2014-02-20 12:48:12.190555
+			size(Byte): 149028
+			return code: 200
+
+
+244. http://thebiglead.com/category/baseball/
+			num of found terms: 1
+			link score: 65.325
+			page score: 0.622
+			crawl time: 2014-02-20 12:48:12.563323
+			size(Byte): 75536
+			return code: 200
+
+
+245. http://www.usatoday.com/sports/mlb/teams/
+			num of found terms: 2
+			link score: 65.325
+			page score: 0.785
+			crawl time: 2014-02-20 12:48:13.824187
+			size(Byte): 125140
+			return code: 200
+
+
+246. http://www.usatoday.com/sports/nba/teams/
+			num of found terms: 2
+			link score: 65.325
+			page score: 0.785
+			crawl time: 2014-02-20 12:48:14.367887
+			size(Byte): 125171
+			return code: 200
+
+
+247. http://www.sportsnetwork.com/merge/tsnform.aspx?c=usatoday&page=gaming/liveodds2MLB.aspx
+			num of found terms: 2
+			link score: 68.557
+			page score: 60.000
+			crawl time: 2014-02-20 12:48:15.202583
+			size(Byte): 23494
+			return code: 200
+
+
+248. http://www.sportsnetwork.com/merge/tsnform.aspx?c=usatoday&page=gaming/liveodds2NFL.aspx
+			num of found terms: 2
+			link score: 68.557
+			page score: 60.000
+			crawl time: 2014-02-20 12:48:15.212452
+			size(Byte): 23494
+			return code: 200
+
+
+249. http://www.usatodaysportsevents.com/programs/nfl-on-location?utm_campaign=USA%2BToday%2BSports&utm_medium=Sub%2BNav%2BNFLOL&utm_source=referrals
+			num of found terms: 1
+			link score: 68.557
+			page score: 0.526
+			crawl time: 2014-02-20 12:48:16.017886
+			size(Byte): 44761
+			return code: 200
+
+
+250. http://thebiglead.com/category/nfl/
+			num of found terms: 1
+			link score: 68.557
+			page score: 0.613
+			crawl time: 2014-02-20 12:48:16.018872
+			size(Byte): 75501
+			return code: 200
+
+
+251. http://www.usatoday.com/sports/nfl/teams/
+			num of found terms: 2
+			link score: 68.557
+			page score: 0.775
+			crawl time: 2014-02-20 12:48:17.691083
+			size(Byte): 128300
+			return code: 200
+
+
+252. http://www.usatoday.com/sports/mlb/standings/
+			num of found terms: 2
+			link score: 73.265
+			page score: 0.862
+			crawl time: 2014-02-20 12:48:17.692443
+			size(Byte): 115728
+			return code: 200
+
+
+253. http://www.usatoday.com/sports/mlb/scores/
+			num of found terms: 2
+			link score: 68.557
+			page score: 0.802
+			crawl time: 2014-02-20 12:48:18.003501
+			size(Byte): 122350
+			return code: 200
+
+
+254. http://www.usatoday.com/sports/nfl/scores/
+			num of found terms: 2
+			link score: 70.997
+			page score: 0.884
+			crawl time: 2014-02-20 12:48:18.269965
+			size(Byte): 95382
+			return code: 200
+
+
+255. http://www.usatoday.com/story/travel/2014/02/16/tourist-traveler-mistakes/5536731/
+			num of found terms: 2
+			link score: 25.602
+			page score: 4.790
+			crawl time: 2014-02-20 12:48:18.291494
+			size(Byte): 81292
+			return code: 200
+
+
+256. http://www.usatoday.com/story/travel/columnist/greatamericanbites/2014/02/20/fogo-de-chao-churrascaria/5609109/
+			num of found terms: 2
+			link score: 26.324
+			page score: 2.942
+			crawl time: 2014-02-20 12:48:18.279988
+			size(Byte): 124078
+			return code: 200
+
+
+257. http://www.usatoday.com/experience/caribbean/best-of-caribbean/honeymoon-spots-caribbean/5457301/
+			num of found terms: 2
+			link score: 26.486
+			page score: 82.000
+			crawl time: 2014-02-20 12:48:18.324769
+			size(Byte): 123484
+			return code: 200
+
+
+258. http://thebiglead.com/2014/02/20/whatsapp-sold-facebook-16-billion-brian-williams-rappers-delight-guardians-of-the-galaxy/
+			num of found terms: 1
+			link score: 25.402
+			page score: 0.535
+			crawl time: 2014-02-20 12:48:18.286856
+			size(Byte): 111798
+			return code: 200
+
+
+259. http://ftw.usatoday.com/
+			num of found terms: 1
+			link score: 70.997
+			page score: 2.394
+			crawl time: 2014-02-20 12:48:18.494816
+			size(Byte): 96937
+			return code: 200
+
+
+260. http://www.usatoday.com/sports/nfl/schedule/
+			num of found terms: 2
+			link score: 70.997
+			page score: 0.889
+			crawl time: 2014-02-20 12:48:20.195739
+			size(Byte): 94501
+			return code: 200
+
+
+261. http://www.usatoday.com/sports/nfl/standings/
+			num of found terms: 2
+			link score: 77.197
+			page score: 0.860
+			crawl time: 2014-02-20 12:48:20.225723
+			size(Byte): 119830
+			return code: 200
+
+
+262. http://www.usatoday.com/story/money/business/2014/02/19/pizza-hut-dominos-crisis-management-fast-food/5609225/
+			num of found terms: 2
+			link score: 23.060
+			page score: 4.241
+			crawl time: 2014-02-20 12:48:21.249144
+			size(Byte): 70555
+			return code: 200
+
+
+263. http://www.usatoday.com/story/money/business/2014/02/20/facebook-whatapp-ma-mergers/5641931/
+			num of found terms: 2
+			link score: 20.094
+			page score: 4.241
+			crawl time: 2014-02-20 12:48:21.298785
+			size(Byte): 67192
+			return code: 200
+
+
+264. http://www.usatoday.com/story/life/people/2014/02/20/fanstastic-four-lines-up-cast/5637983/
+			num of found terms: 2
+			link score: 22.782
+			page score: 4.034
+			crawl time: 2014-02-20 12:48:21.305890
+			size(Byte): 63806
+			return code: 200
+
+
+265. http://www.usatoday.com/story/dispatches/2014/02/19/smart-travel-tips/5459725/
+			num of found terms: 2
+			link score: 29.310
+			page score: 5.057
+			crawl time: 2014-02-20 12:48:21.282817
+			size(Byte): 85589
+			return code: 200
+
+
+266. http://thebiglead.com/category/nfl/
+			num of found terms: 1
+			link score: 23.335
+			page score: 0.613
+			crawl time: 2014-02-20 12:48:21.281521
+			size(Byte): 75550
+			return code: 200
+
+
+267. http://www.usatoday.com/experience/cruise/
+			num of found terms: 2
+			link score: 20.946
+			page score: 88.000
+			crawl time: 2014-02-20 12:48:21.316195
+			size(Byte): 48855
+			return code: 200
+
+
+268. http://ftw.usatoday.com/2014/02/nba-lebron-james-dad-letter-instagram/
+			num of found terms: 1
+			link score: 23.555
+			page score: 2.444
+			crawl time: 2014-02-20 12:48:21.273274
+			size(Byte): 112897
+			return code: 200
+
+
+269. http://www.usatoday.com/story/money/cars/2014/02/20/porsche-911-gt3/5637521/
+			num of found terms: 2
+			link score: 20.243
+			page score: 4.291
+			crawl time: 2014-02-20 12:48:21.349714
+			size(Byte): 71224
+			return code: 200
+
+
+270. http://www.usatoday.com/story/money/business/2014/02/20/walmart-fourth-quarter-earnings/5619937/
+			num of found terms: 2
+			link score: 22.500
+			page score: 4.241
+			crawl time: 2014-02-20 12:48:21.352144
+			size(Byte): 70833
+			return code: 200
+
+
+271. http://www.usatoday.com/experience/cruise/best-of-cruising/10-cruise-ships-sure-to-please-kids/5558913/
+			num of found terms: 2
+			link score: 21.466
+			page score: 150.000
+			crawl time: 2014-02-20 12:48:21.294018
+			size(Byte): 213682
+			return code: 200
+
+
+272. http://ftw.usatoday.com/2014/02/dear-canadian-hockey-fans-you-have-everything-to-lose/
+			num of found terms: 1
+			link score: 42.358
+			page score: 2.259
+			crawl time: 2014-02-20 12:48:21.476065
+			size(Byte): 126369
+			return code: 200
+
+
+273. http://ftw.usatoday.com/2014/02/auburn-students-serenaded-cam-newton-on-valentines-day/
+			num of found terms: 1
+			link score: 21.348
+			page score: 2.443
+			crawl time: 2014-02-20 12:48:21.492216
+			size(Byte): 111499
+			return code: 200
+
+
+274. http://ftw.usatoday.com/2014/02/russia-hockey-winter-olympics-loss/
+			num of found terms: 1
+			link score: 26.523
+			page score: 2.286
+			crawl time: 2014-02-20 12:48:21.489983
+			size(Byte): 122759
+			return code: 200
+
+
+275. http://ftw.usatoday.com/2014/02/yoshiro-mori-japanese-figure-skaters-united-states/
+			num of found terms: 1
+			link score: 21.688
+			page score: 2.448
+			crawl time: 2014-02-20 12:48:21.495161
+			size(Byte): 111544
+			return code: 200
+
+
+276. http://ftw.usatoday.com/2014/02/10-times-u-s-sports-were-better-than-canadian-sports/
+			num of found terms: 1
+			link score: 20.518
+			page score: 2.515
+			crawl time: 2014-02-20 12:48:22.389763
+			size(Byte): 115142
+			return code: 200
+
+
+277. http://ftw.usatoday.com/2014/02/the-top-five-usa-canada-mens-hockey-games-of-all-time/
+			num of found terms: 2
+			link score: 22.787
+			page score: 5.689
+			crawl time: 2014-02-20 12:48:22.390589
+			size(Byte): 115525
+			return code: 200
+
+
+278. http://ftw.usatoday.com/2014/02/bode-miller-interview-nbc-crying-sochi-olympics/
+			num of found terms: 1
+			link score: 21.743
+			page score: 2.168
+			crawl time: 2014-02-20 12:48:22.545460
+			size(Byte): 128557
+			return code: 200
+
+
+279. http://www.usatoday.com/topic/df3cd80c-a036-420f-af76-da8b5fcfa5c8/christopher-elliott/
+			num of found terms: 2
+			link score: 34.600
+			page score: 4.331
+			crawl time: 2014-02-20 12:48:23.746741
+			size(Byte): 108598
+			return code: 200
+
+
+280. http://ftw.usatoday.com/2014/02/usa-canada-olympic-hockey-bet-obama-harper/
+			num of found terms: 1
+			link score: 103.103
+			page score: 2.411
+			crawl time: 2014-02-20 12:48:24.502595
+			size(Byte): 123727
+			return code: 200
+
+
+281. http://ftw.usatoday.com/2014/02/bobsled-berkeley-olympics-rips-lolo-jones/
+			num of found terms: 1
+			link score: 98.584
+			page score: 2.352
+			crawl time: 2014-02-20 12:48:25.596786
+			size(Byte): 115330
+			return code: 200
+
+
+282. http://ftw.usatoday.com/2014/02/olympics-celebration-photo-finish-fail/
+			num of found terms: 1
+			link score: 98.584
+			page score: 2.183
+			crawl time: 2014-02-20 12:48:25.597656
+			size(Byte): 124772
+			return code: 200
+
+
+283. http://ftw.usatoday.com/2014/02/kate-upton-did-her-si-swimsuit-photo-shoot-in-zero-gravity/
+			num of found terms: 1
+			link score: 98.584
+			page score: 2.182
+			crawl time: 2014-02-20 12:48:25.603878
+			size(Byte): 125628
+			return code: 200
+
+
+284. http://ftw.usatoday.com/category/winter-morning-win/
+			num of found terms: 1
+			link score: 91.035
+			page score: 2.288
+			crawl time: 2014-02-20 12:48:26.254232
+			size(Byte): 73945
+			return code: 200
+
+
+285. http://ftw.usatoday.com/2014/02/american-olympians-continue-to-adopt-all-of-russias-stray-dogs/
+			num of found terms: 1
+			link score: 98.584
+			page score: 2.473
+			crawl time: 2014-02-20 12:48:26.326763
+			size(Byte): 114858
+			return code: 200
+
+
+286. http://ftw.usatoday.com/2014/02/figure-skating-songs-olympics-lyrics-choices/
+			num of found terms: 1
+			link score: 98.584
+			page score: 2.545
+			crawl time: 2014-02-20 12:48:26.329398
+			size(Byte): 116996
+			return code: 200
+
+
+287. http://ftw.usatoday.com/2014/02/bobsled-olympics-usa-sochi-lauryn-williams/
+			num of found terms: 1
+			link score: 98.584
+			page score: 2.838
+			crawl time: 2014-02-20 12:48:26.493805
+			size(Byte): 112934
+			return code: 200
+
+
+288. http://ftw.usatoday.com/2014/02/bode-miller-wants-to-become-a-horse-trainer-when-he-retires/
+			num of found terms: 1
+			link score: 98.584
+			page score: 2.497
+			crawl time: 2014-02-20 12:48:26.498461
+			size(Byte): 113178
+			return code: 200
+
+
+289. http://ftw.usatoday.com/2014/02/t-j-oshie-the-american-heroes-are-wearing-camo/
+			num of found terms: 1
+			link score: 98.584
+			page score: 2.181
+			crawl time: 2014-02-20 12:48:26.510436
+			size(Byte): 125975
+			return code: 200
+
+
+290. http://ftw.usatoday.com/2014/02/swiss-hockey-player-jessica-lutz-coffee-washington-dc/
+			num of found terms: 1
+			link score: 148.207
+			page score: 2.401
+			crawl time: 2014-02-20 12:48:26.713767
+			size(Byte): 111147
+			return code: 200
+
+
+291. http://ftw.usatoday.com/2014/02/usa-womens-hockey-canada-sochi-olympics/
+			num of found terms: 1
+			link score: 146.854
+			page score: 2.753
+			crawl time: 2014-02-20 12:48:26.726877
+			size(Byte): 114910
+			return code: 200
+
+
+292. https://twitter.com/forthewin
+			num of found terms: 1
+			link score: 97.194
+			page score: 0.226
+			crawl time: 2014-02-20 12:48:27.008383
+			size(Byte): 206190
+			return code: 200
+
+
+293. http://ftw.usatoday.com/2014/02/ashley-wagner-expression-scores-olympics-sochi-figure-skating/
+			num of found terms: 1
+			link score: 92.618
+			page score: 2.467
+			crawl time: 2014-02-20 12:48:27.326778
+			size(Byte): 112528
+			return code: 200
+
+
+294. http://ftw.usatoday.com/author/chris-chase/
+			num of found terms: 1
+			link score: 102.214
+			page score: 2.324
+			crawl time: 2014-02-20 12:48:27.366497
+			size(Byte): 73337
+			return code: 200
+
+
+295. http://ftw.usatoday.com/category/olympics/
+			num of found terms: 1
+			link score: 141.637
+			page score: 2.336
+			crawl time: 2014-02-20 12:48:27.392942
+			size(Byte): 72731
+			return code: 200
+
+
+296. http://ftw.usatoday.com/category/nba/
+			num of found terms: 1
+			link score: 99.945
+			page score: 2.295
+			crawl time: 2014-02-20 12:48:27.396137
+			size(Byte): 69021
+			return code: 200
+
+
+297. http://ftw.usatoday.com/author/llitman/
+			num of found terms: 1
+			link score: 131.852
+			page score: 2.216
+			crawl time: 2014-02-20 12:48:27.390363
+			size(Byte): 73188
+			return code: 200
+
+
+298. http://ftw.usatoday.com/2014/02/team-usa-mens-hockey-newest-members-of-the-adopt-a-stray-sochi-dog-brigade/
+			num of found terms: 1
+			link score: 92.618
+			page score: 2.743
+			crawl time: 2014-02-20 12:48:27.573955
+			size(Byte): 113538
+			return code: 200
+
+
+299. http://vip.wordpress.com/
+			num of found terms: 0
+			link score: 77.421
+			page score: 0.000
+			crawl time: 2014-02-20 12:48:27.937294
+			size(Byte): 24492
+			return code: 200
+
+
+300. http://ftw.usatoday.com/2014/02/johnny-weir-confirms-he-coordinates-outfits-with-tara-lipinski/
+			num of found terms: 1
+			link score: 122.211
+			page score: 2.369
+			crawl time: 2014-02-20 12:48:27.964408
+			size(Byte): 114570
+			return code: 200
+
+
+301. http://ftw.usatoday.com/category/nfl/
+			num of found terms: 1
+			link score: 77.644
+			page score: 2.173
+			crawl time: 2014-02-20 12:48:28.312470
+			size(Byte): 72958
+			return code: 200
+
+
+302. http://ftw.usatoday.com/tag/hockey/
+			num of found terms: 1
+			link score: 83.674
+			page score: 2.315
+			crawl time: 2014-02-20 12:48:28.555624
+			size(Byte): 72182
+			return code: 200
+
+
+303. http://ftw.usatoday.com/author/mike-foss/
+			num of found terms: 1
+			link score: 87.321
+			page score: 2.304
+			crawl time: 2014-02-20 12:48:28.596814
+			size(Byte): 73918
+			return code: 200
+
+
+304. http://ftw.usatoday.com/tag/sochi-olympics/
+			num of found terms: 1
+			link score: 99.500
+			page score: 2.333
+			crawl time: 2014-02-20 12:48:28.635975
+			size(Byte): 73131
+			return code: 200
+
+
+305. http://www.usatoday.com/sports/
+			num of found terms: 2
+			link score: 75.534
+			page score: 1.170
+			crawl time: 2014-02-20 12:48:29.133728
+			size(Byte): 233537
+			return code: 200
+
+
+306. http://ftw.usatoday.com/2014/02/gus-kenworthy-took-the-last-stray-puppy-photo-you-will-ever-need-to-see/
+			num of found terms: 1
+			link score: 116.099
+			page score: 2.210
+			crawl time: 2014-02-20 12:48:30.118330
+			size(Byte): 121836
+			return code: 200
+
+
+307. http://ftw.usatoday.com/tag/parents/
+			num of found terms: 1
+			link score: 84.281
+			page score: 2.315
+			crawl time: 2014-02-20 12:48:30.970774
+			size(Byte): 63010
+			return code: 200
+
+
+308. http://ftw.usatoday.com/tag/instagram/
+			num of found terms: 1
+			link score: 84.281
+			page score: 2.257
+			crawl time: 2014-02-20 12:48:30.958072
+			size(Byte): 70311
+			return code: 200
+
+
+309. http://ftw.usatoday.com/tag/lebron-james/
+			num of found terms: 1
+			link score: 84.281
+			page score: 2.208
+			crawl time: 2014-02-20 12:48:30.989072
+			size(Byte): 69849
+			return code: 200
+
+
+310. http://ftw.usatoday.com/tag/miami/
+			num of found terms: 1
+			link score: 84.281
+			page score: 2.257
+			crawl time: 2014-02-20 12:48:30.984548
+			size(Byte): 69732
+			return code: 200
+
+
+311. http://ftw.usatoday.com/category/nhl/
+			num of found terms: 1
+			link score: 87.526
+			page score: 2.236
+			crawl time: 2014-02-20 12:48:31.033218
+			size(Byte): 71722
+			return code: 200
+
+
+312. http://ftw.usatoday.com/tag/family/
+			num of found terms: 1
+			link score: 86.448
+			page score: 2.245
+			crawl time: 2014-02-20 12:48:31.062880
+			size(Byte): 70516
+			return code: 200
+
+
+313. http://ftw.usatoday.com/tag/miami-heat/
+			num of found terms: 1
+			link score: 84.281
+			page score: 2.245
+			crawl time: 2014-02-20 12:48:31.055770
+			size(Byte): 69678
+			return code: 200
+
+
+314. http://ftw.usatoday.com/tag/figure-skating/
+			num of found terms: 1
+			link score: 86.753
+			page score: 2.227
+			crawl time: 2014-02-20 12:48:31.249739
+			size(Byte): 72911
+			return code: 200
+
+
+315. http://ftw.usatoday.com/tag/photos/
+			num of found terms: 1
+			link score: 88.672
+			page score: 2.219
+			crawl time: 2014-02-20 12:48:31.392601
+			size(Byte): 70267
+			return code: 200
+
+
+316. http://ftw.usatoday.com/tag/social-media/
+			num of found terms: 1
+			link score: 84.281
+			page score: 2.238
+			crawl time: 2014-02-20 12:48:31.036065
+			size(Byte): 70175
+			return code: 200
+
+
+317. http://ftw.usatoday.com/tag/swimsuit-issue/
+			num of found terms: 1
+			link score: 106.467
+			page score: 2.292
+			crawl time: 2014-02-20 12:48:33.254118
+			size(Byte): 63407
+			return code: 200
+
+
+318. http://ftw.usatoday.com/tag/kate-upton/
+			num of found terms: 1
+			link score: 106.467
+			page score: 2.155
+			crawl time: 2014-02-20 12:48:33.251957
+			size(Byte): 72585
+			return code: 200
+
+
+319. http://ftw.usatoday.com/tag/russia/
+			num of found terms: 1
+			link score: 106.571
+			page score: 2.243
+			crawl time: 2014-02-20 12:48:33.280486
+			size(Byte): 72400
+			return code: 200
+
+
+320. http://ftw.usatoday.com/tag/kate-hansen/
+			num of found terms: 1
+			link score: 104.285
+			page score: 2.298
+			crawl time: 2014-02-20 12:48:33.374791
+			size(Byte): 65243
+			return code: 200
+
+
+321. http://ftw.usatoday.com/privacy/#adchoices
+			num of found terms: 1
+			link score: 104.285
+			page score: 2.323
+			crawl time: 2014-02-20 12:48:33.445383
+			size(Byte): 100817
+			return code: 200
+
+
+322. http://ftw.usatoday.com/terms/
+			num of found terms: 1
+			link score: 104.285
+			page score: 2.390
+			crawl time: 2014-02-20 12:48:33.560348
+			size(Byte): 115672
+			return code: 200
+
+
+323. http://ftw.usatoday.com/contact-ftw/
+			num of found terms: 1
+			link score: 104.285
+			page score: 2.538
+			crawl time: 2014-02-20 12:48:33.696607
+			size(Byte): 83201
+			return code: 200
+
+
+324. http://ftw.usatoday.com/tag/sports-illustrated/
+			num of found terms: 1
+			link score: 106.467
+			page score: 2.155
+			crawl time: 2014-02-20 12:48:33.969975
+			size(Byte): 73463
+			return code: 200
+
+
+325. http://ftw.usatoday.com/privacy/
+			num of found terms: 1
+			link score: 104.285
+			page score: 2.323
+			crawl time: 2014-02-20 12:48:33.732976
+			size(Byte): 100812
+			return code: 200
+
+
+326. http://ftw.usatoday.com/category/ncaaf/
+			num of found terms: 1
+			link score: 129.647
+			page score: 2.173
+			crawl time: 2014-02-20 12:48:34.650223
+			size(Byte): 72279
+			return code: 200
+
+
+327. http://ftw.usatoday.com/category/mlb/
+			num of found terms: 1
+			link score: 125.002
+			page score: 2.209
+			crawl time: 2014-02-20 12:48:34.651199
+			size(Byte): 72670
+			return code: 200
+
+
+328. http://ftw.usatoday.com/category/tennis/
+			num of found terms: 1
+			link score: 125.002
+			page score: 2.155
+			crawl time: 2014-02-20 12:48:34.750419
+			size(Byte): 72358
+			return code: 200
+
+
+329. http://ftw.usatoday.com/category/ncaab/
+			num of found terms: 1
+			link score: 125.002
+			page score: 2.173
+			crawl time: 2014-02-20 12:48:34.829406
+			size(Byte): 72940
+			return code: 200
+
+
+330. http://ftw.usatoday.com/category/golf/
+			num of found terms: 1
+			link score: 125.002
+			page score: 2.183
+			crawl time: 2014-02-20 12:48:34.893514
+			size(Byte): 71336
+			return code: 200
+
+
+331. http://ftw.usatoday.com/category/soccer-2/
+			num of found terms: 1
+			link score: 125.002
+			page score: 2.155
+			crawl time: 2014-02-20 12:48:34.894885
+			size(Byte): 72621
+			return code: 200
+
+
+332. http://ftw.usatoday.com/category/ufc/
+			num of found terms: 1
+			link score: 125.002
+			page score: 2.211
+			crawl time: 2014-02-20 12:48:35.103152
+			size(Byte): 71854
+			return code: 200
+
+
+333. http://ftw.usatoday.com/tag/photos/
+			num of found terms: 1
+			link score: 125.002
+			page score: 2.219
+			crawl time: 2014-02-20 12:48:35.195861
+			size(Byte): 70267
+			return code: 200
+
+
+334. http://ftw.usatoday.com/category/nascar/
+			num of found terms: 1
+			link score: 125.002
+			page score: 2.155
+			crawl time: 2014-02-20 12:48:35.338006
+			size(Byte): 72652
+			return code: 200
+
+
+335. http://ftw.usatoday.com/tag/videos/
+			num of found terms: 1
+			link score: 125.002
+			page score: 2.255
+			crawl time: 2014-02-20 12:48:34.231070
+			size(Byte): 71696
+			return code: 200
+
+
+336. http://ftw.usatoday.com/2014/02/russia-olympics-hockey-sochi-alex-ovechkin-coach-zinetula-bilyaletdin/
+			num of found terms: 1
+			link score: 32.621
+			page score: 2.263
+			crawl time: 2014-02-20 12:48:36.727507
+			size(Byte): 124826
+			return code: 200
+
+
+337. http://ftw.usatoday.com/tag/gifs/
+			num of found terms: 1
+			link score: 146.888
+			page score: 2.273
+			crawl time: 2014-02-20 12:48:37.117031
+			size(Byte): 71534
+			return code: 200
+
+
+338. http://ftw.usatoday.com/2014/02/gracie-gold-finally-got-a-photo-with-figure-skating-queen-yuna-kim/
+			num of found terms: 1
+			link score: 35.690
+			page score: 2.467
+			crawl time: 2014-02-20 12:48:37.161841
+			size(Byte): 112733
+			return code: 200
+
+
+339. http://ftw.usatoday.com/author/kallen/
+			num of found terms: 1
+			link score: 77.714
+			page score: 2.270
+			crawl time: 2014-02-20 12:48:37.315580
+			size(Byte): 72660
+			return code: 200
+
+
+340. http://ftw.usatoday.com/author/nina-mandell/
+			num of found terms: 1
+			link score: 39.133
+			page score: 2.180
+			crawl time: 2014-02-20 12:48:37.327160
+			size(Byte): 73637
+			return code: 200
+
+
+341. http://ftw.usatoday.com/author/sean-highkin/
+			num of found terms: 1
+			link score: 65.541
+			page score: 2.283
+			crawl time: 2014-02-20 12:48:37.442345
+			size(Byte): 70515
+			return code: 200
+
+
+342. http://ftw.usatoday.com/author/nick-schwartz/
+			num of found terms: 1
+			link score: 50.070
+			page score: 2.173
+			crawl time: 2014-02-20 12:48:37.482806
+			size(Byte): 72732
+			return code: 200
+
+
+343. http://ftw.usatoday.com/2014/02/nba-lebron-wade-alley-oop-halfcourt-dunk-heat-mavs/
+			num of found terms: 1
+			link score: 36.862
+			page score: 2.424
+			crawl time: 2014-02-20 12:48:37.572350
+			size(Byte): 111610
+			return code: 200
+
+
+344. http://ftw.usatoday.com/2014/02/u-s-luger-cries-wolf-in-sochi-has-proof/
+			num of found terms: 1
+			link score: 84.296
+			page score: 2.394
+			crawl time: 2014-02-20 12:48:37.661826
+			size(Byte): 111186
+			return code: 200
+
+
+345. http://ftw.usatoday.com/2014/02/call-off-the-search-weve-found-the-best-mustache-of-the-olympics/
+			num of found terms: 1
+			link score: 45.645
+			page score: 2.220
+			crawl time: 2014-02-20 12:48:37.739355
+			size(Byte): 123927
+			return code: 200
+
+
+346. http://ftw.usatoday.com/2014/02/4-easy-ways-to-be-an-olympic-champion-while-youre-at-work/
+			num of found terms: 1
+			link score: 28.611
+			page score: 2.439
+			crawl time: 2014-02-20 12:48:37.938872
+			size(Byte): 112992
+			return code: 200
+
+
+347. http://ftw.usatoday.com/2014/02/nba-lakers-dwight-howard-rockets-booed/
+			num of found terms: 1
+			link score: 37.426
+			page score: 2.407
+			crawl time: 2014-02-20 12:48:37.935050
+			size(Byte): 119943
+			return code: 200
+
+
+348. http://ftw.usatoday.com/author/nate-scott/
+			num of found terms: 1
+			link score: 28.576
+			page score: 2.205
+			crawl time: 2014-02-20 12:48:38.579012
+			size(Byte): 73164
+			return code: 200
+
+
+349. http://ftw.usatoday.com/2014/02/rockets-celebrate-win-over-lakers-by-chanting-howard-sucks-all-laugh/
+			num of found terms: 1
+			link score: 28.428
+			page score: 2.444
+			crawl time: 2014-02-20 12:48:38.610887
+			size(Byte): 113850
+			return code: 200
+
+
+350. http://ftw.usatoday.com/2014/02/what-was-julia-lipnitskaias-coach-doing-to-her-ears/
+			num of found terms: 1
+			link score: 31.017
+			page score: 2.400
+			crawl time: 2014-02-20 12:48:38.741320
+			size(Byte): 114891
+			return code: 200
+
+
+351. http://ftw.usatoday.com/2014/02/nba-lakers-jodie-meeks-circus-shot/
+			num of found terms: 1
+			link score: 37.426
+			page score: 2.432
+			crawl time: 2014-02-20 12:48:38.849266
+			size(Byte): 110334
+			return code: 200
+
+
+352. http://ftw.usatoday.com/2014/02/nba-fax-machine-coolio-bucks-glenn-robinson/
+			num of found terms: 1
+			link score: 36.841
+			page score: 2.341
+			crawl time: 2014-02-20 12:48:38.799397
+			size(Byte): 113467
+			return code: 200
+
+
+353. http://ftw.usatoday.com/2014/02/russia-finland-loss-sochi-olympics-fans/
+			num of found terms: 1
+			link score: 27.449
+			page score: 2.474
+			crawl time: 2014-02-20 12:48:38.898450
+			size(Byte): 112251
+			return code: 200
+
+
+354. http://ftw.usatoday.com/2014/02/nba-paul-george-dunk-timberwolves-pacers/
+			num of found terms: 1
+			link score: 27.404
+			page score: 2.430
+			crawl time: 2014-02-20 12:48:39.092116
+			size(Byte): 111886
+			return code: 200
+
+
+355. http://ftw.usatoday.com/2014/02/nba-swagtime-lakers-kent-bazemore/
+			num of found terms: 1
+			link score: 30.416
+			page score: 2.407
+			crawl time: 2014-02-20 12:48:39.108899
+			size(Byte): 113834
+			return code: 200
+
+
+356. http://q.usatoday.com/2014/02/20/sochi-olympics-womens-hockey-us-canada-gold-medal-best-rivalry-in-sports/
+			num of found terms: 1
+			link score: 23.597
+			page score: 3.510
+			crawl time: 2014-02-20 12:48:39.339188
+			size(Byte): 180340
+			return code: 200
+
+
+357. http://ftw.usatoday.com/author/ted-berg/
+			num of found terms: 1
+			link score: 26.758
+			page score: 2.198
+			crawl time: 2014-02-20 12:48:39.776578
+			size(Byte): 73484
+			return code: 200
+
+
+358. http://ftw.usatoday.com/2014/02/haunting-pictures-of-sarajevos-abandoned-olympic-venues/
+			num of found terms: 1
+			link score: 26.617
+			page score: 2.456
+			crawl time: 2014-02-20 12:48:39.948570
+			size(Byte): 113356
+			return code: 200
+
+
+359. http://ftw.usatoday.com/2014/02/sad-sochi-bear-mascot/
+			num of found terms: 1
+			link score: 27.099
+			page score: 2.173
+			crawl time: 2014-02-20 12:48:40.011621
+			size(Byte): 119359
+			return code: 200
+
+
+360. https://twitter.com/themikefoss
+			num of found terms: 1
+			link score: 21.926
+			page score: 0.153
+			crawl time: 2014-02-20 12:48:39.762069
+			size(Byte): 202941
+			return code: 200
+
+
+361. http://ftw.usatoday.com/2014/02/this-three-way-skicross-crash-made-for-an-incredible-photo-finish/
+			num of found terms: 1
+			link score: 26.967
+			page score: 2.193
+			crawl time: 2014-02-20 12:48:40.368911
+			size(Byte): 125538
+			return code: 200
+
+
+362. http://ftw.usatoday.com/2014/02/rooster-security-guards-israeli-soccer-game-video/
+			num of found terms: 1
+			link score: 27.451
+			page score: 2.413
+			crawl time: 2014-02-20 12:48:39.952647
+			size(Byte): 110361
+			return code: 200
+
+
+363. http://ftw.usatoday.com/2014/02/team-usa-mens-hockey-olympics-gold-medal/
+			num of found terms: 1
+			link score: 20.477
+			page score: 2.709
+			crawl time: 2014-02-20 12:48:42.637672
+			size(Byte): 114023
+			return code: 200
+
+
+364. http://ftw.usatoday.com/2014/02/u-s-skating-coach-brushes-off-little-girl-julia-lipnitskaia/
+			num of found terms: 1
+			link score: 21.006
+			page score: 2.476
+			crawl time: 2014-02-20 12:48:42.639494
+			size(Byte): 114616
+			return code: 200
+
+
+365. http://q.usatoday.com/2014/02/20/sochi-olympics-figure-skating-yuna-kim-gracie-gold/
+			num of found terms: 1
+			link score: 37.640
+			page score: 3.450
+			crawl time: 2014-02-20 12:48:42.635511
+			size(Byte): 183545
+			return code: 200
+
+
+366. http://q.usatoday.com/2014/02/20/sochi-olympics-freeski-halfpipe-brita-sigourney-maddie-bowman-angeli-vanlaanen-annalisa-drew/
+			num of found terms: 1
+			link score: 28.075
+			page score: 3.545
+			crawl time: 2014-02-20 12:48:42.638235
+			size(Byte): 178041
+			return code: 200
+
+
+367. http://q.usatoday.com/2014/02/19/sochi-winter-olympics-us-athlete-goes-off-us-speedskating-maria-lamb-criticize-controversy/
+			num of found terms: 1
+			link score: 21.056
+			page score: 3.624
+			crawl time: 2014-02-20 12:48:42.634107
+			size(Byte): 175495
+			return code: 200
+
+
+368. https://twitter.com/themikefoss
+			num of found terms: 1
+			link score: 24.383
+			page score: 0.153
+			crawl time: 2014-02-20 12:48:42.863083
+			size(Byte): 202941
+			return code: 200
+
+
+369. http://ftw.usatoday.com/2014/02/nba-celtics-rajon-rondo-trade-deadline/
+			num of found terms: 1
+			link score: 21.657
+			page score: 2.439
+			crawl time: 2014-02-20 12:48:43.489617
+			size(Byte): 113670
+			return code: 200
+
+
+370. http://ftw.usatoday.com/2014/02/d-ii-hoops-game-ends-in-tie-after-player-literally-shoots-the-lights-out/
+			num of found terms: 1
+			link score: 20.316
+			page score: 2.382
+			crawl time: 2014-02-20 12:48:43.492875
+			size(Byte): 113551
+			return code: 200
+
+
+371. http://ftw.usatoday.com/2014/02/nelson-cruz-stephen-drew-ervin-santana-mlb-free-agents/
+			num of found terms: 1
+			link score: 20.932
+			page score: 2.371
+			crawl time: 2014-02-20 12:48:43.494034
+			size(Byte): 118529
+			return code: 200
+
+
+372. http://ftw.usatoday.com/2014/02/astros-manager-scolds-team-for-disrespecting-roger-clemens/
+			num of found terms: 2
+			link score: 20.932
+			page score: 4.923
+			crawl time: 2014-02-20 12:48:43.570658
+			size(Byte): 114951
+			return code: 200
+
+
+373. http://q.usatoday.com/2014/02/20/sochi-olympics-freeskiing-anais-caradeux-france/
+			num of found terms: 1
+			link score: 57.683
+			page score: 3.531
+			crawl time: 2014-02-20 12:48:43.677912
+			size(Byte): 183571
+			return code: 200
+
+
+374. http://q.usatoday.com/2014/02/20/sochi-olympics-france-ski-cross-wolf-kate-hansen/
+			num of found terms: 1
+			link score: 71.812
+			page score: 3.603
+			crawl time: 2014-02-20 12:48:43.683462
+			size(Byte): 173462
+			return code: 200
+
+
+375. http://q.usatoday.com/2014/02/20/sochi-winter-olympics-us-canada-womens-hockey-gold-medal/
+			num of found terms: 1
+			link score: 70.644
+			page score: 3.650
+			crawl time: 2014-02-20 12:48:43.685400
+			size(Byte): 172557
+			return code: 200
+
+
+376. http://q.usatoday.com/2014/02/19/live-updates-analysis-from-u-s-vs-czech-republic/
+			num of found terms: 1
+			link score: 56.515
+			page score: 3.471
+			crawl time: 2014-02-20 12:48:43.687851
+			size(Byte): 195909
+			return code: 200
+
+
+377. http://www.usatoday.com/story/sports/olympics/sochi/2014/02/19/elana-meyers-lauryn-williams-womens-bobsled/5608159/
+			num of found terms: 2
+			link score: 70.644
+			page score: 1.685
+			crawl time: 2014-02-20 12:48:43.768096
+			size(Byte): 194144
+			return code: 200
+
+
+378. http://q.usatoday.com/2014/02/19/sochi-olympics-figure-skating-yuna-kim-julia-lipnitskaia/
+			num of found terms: 1
+			link score: 70.644
+			page score: 3.344
+			crawl time: 2014-02-20 12:48:43.680743
+			size(Byte): 185836
+			return code: 200
+
+
+379. http://q.usatoday.com/2014/02/19/sochi-olympic-natalia-popova-ukraine/
+			num of found terms: 1
+			link score: 56.515
+			page score: 3.553
+			crawl time: 2014-02-20 12:48:44.236163
+			size(Byte): 174020
+			return code: 200
+
+
+380. http://q.usatoday.com/2014/02/19/sochi-winter-olympics-schedule-freestyle-skiing-ski-cross-john-teller/
+			num of found terms: 1
+			link score: 70.644
+			page score: 3.497
+			crawl time: 2014-02-20 12:48:44.360885
+			size(Byte): 176612
+			return code: 200
+
+
+381. http://q.usatoday.com/2014/02/20/steven-holcomb-bobsled/
+			num of found terms: 1
+			link score: 57.683
+			page score: 3.545
+			crawl time: 2014-02-20 12:48:44.612950
+			size(Byte): 172841
+			return code: 200
+
+
+382. http://q.usatoday.com/2014/02/20/sochi-olympics-yuna-kim-monique-lamourex/
+			num of found terms: 1
+			link score: 71.812
+			page score: 3.550
+			crawl time: 2014-02-20 12:48:44.603586
+			size(Byte): 172525
+			return code: 200
+
+
+383. http://q.usatoday.com/2014/02/20/sochi-olympics-brita-sigourney-maddie-bowman/
+			num of found terms: 1
+			link score: 137.617
+			page score: 3.664
+			crawl time: 2014-02-20 12:48:44.733603
+			size(Byte): 175972
+			return code: 200
+
+
+384. http://q.usatoday.com/2014/02/20/sochi-olympics-womens-curling-canada/
+			num of found terms: 1
+			link score: 137.617
+			page score: 3.652
+			crawl time: 2014-02-20 12:48:44.734029
+			size(Byte): 172509
+			return code: 200
+
+
+385. http://q.usatoday.com/sochi/
+			num of found terms: 1
+			link score: 57.388
+			page score: 3.521
+			crawl time: 2014-02-20 12:48:44.744991
+			size(Byte): 164308
+			return code: 200
+
+
+386. https://twitter.com/Qsports
+			num of found terms: 1
+			link score: 137.617
+			page score: 0.201
+			crawl time: 2014-02-20 12:48:44.986859
+			size(Byte): 205239
+			return code: 200
+
+
+387. http://q.usatoday.com/2014/02/20/led-by-jean-fredric-chapuis-france-sweeps-mens-ski-cross/
+			num of found terms: 1
+			link score: 139.810
+			page score: 3.603
+			crawl time: 2014-02-20 12:48:45.315407
+			size(Byte): 171909
+			return code: 200
+
+
+388. http://q.usatoday.com/about/
+			num of found terms: 1
+			link score: 91.745
+			page score: 3.562
+			crawl time: 2014-02-20 12:48:45.332513
+			size(Byte): 170435
+			return code: 200
+
+
+389. http://q.usatoday.com/2014/02/20/sochi-olympics-nordic-combined-norway/
+			num of found terms: 1
+			link score: 137.617
+			page score: 3.603
+			crawl time: 2014-02-20 12:48:45.420808
+			size(Byte): 171356
+			return code: 200
+
+
+390. http://q.usatoday.com/2014/02/20/sochi-olympics-jonathan-quick-start-semifinal/
+			num of found terms: 1
+			link score: 91.745
+			page score: 3.585
+			crawl time: 2014-02-20 12:48:45.484129
+			size(Byte): 171325
+			return code: 200
+
+
+391. http://www.usatoday.com/sports/olympics/2014/medals/projections/sport/all/all/
+			num of found terms: 2
+			link score: 46.707
+			page score: 0.755
+			crawl time: 2014-02-20 12:48:47.039114
+			size(Byte): 150242
+			return code: 200
+
+
+392. http://www.usatoday.com/story/sports/olympics/sochi/2014/02/12/womens-downhill-julia-mancuso-winter-olympics-sochi-2014/5412491/?sf22714938=1
+			num of found terms: 2
+			link score: 71.063
+			page score: 1.407
+			crawl time: 2014-02-20 12:48:47.145138
+			size(Byte): 241530
+			return code: 200
+
+
+393. http://q.usatoday.com/2014/02/18/sochi-olympics-meryl-davis-evan-lysacek-shani-davis-shaun-white/
+			num of found terms: 1
+			link score: 71.063
+			page score: 3.474
+			crawl time: 2014-02-20 12:48:47.129652
+			size(Byte): 183208
+			return code: 200
+
+
+394. http://q.usatoday.com/tag/mens-hockey/
+			num of found terms: 1
+			link score: 71.063
+			page score: 3.732
+			crawl time: 2014-02-20 12:48:47.321155
+			size(Byte): 102600
+			return code: 200
+
+
+395. http://q.usatoday.com/2014/02/11/iouri-podladtchikov-wins-gold-halfpipe-in-home-country/
+			num of found terms: 1
+			link score: 71.063
+			page score: 3.500
+			crawl time: 2014-02-20 12:48:47.875613
+			size(Byte): 181626
+			return code: 200
+
+
+396. http://q.usatoday.com/2014/02/19/sochi-olympics-ted-ligety-giant-slalom-gold/
+			num of found terms: 1
+			link score: 71.063
+			page score: 3.555
+			crawl time: 2014-02-20 12:48:47.906455
+			size(Byte): 176975
+			return code: 200
+
+
+397. http://q.usatoday.com/privacy-policy/#adchoices
+			num of found terms: 1
+			link score: 71.063
+			page score: 3.346
+			crawl time: 2014-02-20 12:48:48.027312
+			size(Byte): 187151
+			return code: 200
+
+
+398. http://q.usatoday.com/privacy-policy/
+			num of found terms: 1
+			link score: 71.063
+			page score: 3.346
+			crawl time: 2014-02-20 12:48:48.037275
+			size(Byte): 187147
+			return code: 200
+
+
+399. http://q.usatoday.com/terms-of-service/
+			num of found terms: 1
+			link score: 71.063
+			page score: 3.430
+			crawl time: 2014-02-20 12:48:48.337072
+			size(Byte): 202046
+			return code: 200
+
+
+400. http://q.usatoday.com/2014/02/12/spchi-olympics-hannah-teter-kelly-clark/
+			num of found terms: 1
+			link score: 71.063
+			page score: 3.561
+			crawl time: 2014-02-20 12:48:48.026295
+			size(Byte): 178012
+			return code: 200
+
+
+401. http://q.usatoday.com/2014/02/19/sochi-olympics-bode-miller-done/
+			num of found terms: 1
+			link score: 99.006
+			page score: 3.601
+			crawl time: 2014-02-20 12:48:50.153403
+			size(Byte): 186911
+			return code: 200
+
+
+402. http://q.usatoday.com/2014/02/20/nfl-combine-five-players-with-the-most-to-gain-johnny-manziel-carlos-hyde-darqueze-dennard/
+			num of found terms: 1
+			link score: 73.752
+			page score: 3.405
+			crawl time: 2014-02-20 12:48:50.157034
+			size(Byte): 183000
+			return code: 200
+
+
+403. http://q.usatoday.com/sochi/
+			num of found terms: 1
+			link score: 99.006
+			page score: 3.521
+			crawl time: 2014-02-20 12:48:50.313535
+			size(Byte): 164309
+			return code: 200
+
+
+404. http://q.usatoday.com/sochi/
+			num of found terms: 1
+			link score: 99.006
+			page score: 3.521
+			crawl time: 2014-02-20 12:48:50.321142
+			size(Byte): 164309
+			return code: 200
+
+
+405. http://q.usatoday.com/2014/02/20/tampa-bay-buccaneers-coach-lovie-smith-does-rule-out-quarterback-seventh-pick-mike-glennon-nfl-combine/
+			num of found terms: 1
+			link score: 79.768
+			page score: 3.444
+			crawl time: 2014-02-20 12:48:50.148720
+			size(Byte): 179750
+			return code: 200
+
+
+406. http://q.usatoday.com/nfl/
+			num of found terms: 1
+			link score: 99.006
+			page score: 3.417
+			crawl time: 2014-02-20 12:48:50.836580
+			size(Byte): 166703
+			return code: 200
+
+
+407. http://thepowertodomore.com/
+			num of found terms: 1
+			link score: 95.275
+			page score: 0.094
+			crawl time: 2014-02-20 12:48:50.691487
+			size(Byte): 70724
+			return code: 200
+
+
+408. http://q.usatoday.com/2014/02/19/sochi-olympics-vic-wild-russia-usa/
+			num of found terms: 1
+			link score: 99.006
+			page score: 4.034
+			crawl time: 2014-02-20 12:48:50.912977
+			size(Byte): 177123
+			return code: 200
+
+
+409. http://q.usatoday.com/nfl/
+			num of found terms: 1
+			link score: 99.006
+			page score: 3.417
+			crawl time: 2014-02-20 12:48:51.178845
+			size(Byte): 166703
+			return code: 200
+
+
+410. http://q.usatoday.com/2014/02/20/nfl-draft-kadeem-carey-arizona-wildcats-number-one-running-back/
+			num of found terms: 1
+			link score: 137.840
+			page score: 3.467
+			crawl time: 2014-02-20 12:48:51.289237
+			size(Byte): 178001
+			return code: 200
+
+
+411. http://q.usatoday.com/2014/02/20/arizona-cardinals-larry-fitzgerald-steve-keim-trade/
+			num of found terms: 1
+			link score: 116.128
+			page score: 3.392
+			crawl time: 2014-02-20 12:48:51.310082
+			size(Byte): 176497
+			return code: 200
+
+
+412. http://q.usatoday.com/2014/02/20/nfl-combine-five-players-with-the-most-to-lose-michael-sam/
+			num of found terms: 1
+			link score: 139.010
+			page score: 3.319
+			crawl time: 2014-02-20 12:48:51.290944
+			size(Byte): 181936
+			return code: 200
+
+
+413. http://q.usatoday.com/2014/02/20/live-blog-joe-philbin-nfl-combine-press-conference/
+			num of found terms: 1
+			link score: 117.491
+			page score: 3.296
+			crawl time: 2014-02-20 12:48:51.303201
+			size(Byte): 178885
+			return code: 200
+
+
+414. http://q.usatoday.com/2014/02/19/st-louis-rams-nfl-draft-needs-offseason-top-prospects/
+			num of found terms: 1
+			link score: 70.412
+			page score: 3.420
+			crawl time: 2014-02-20 12:48:51.313694
+			size(Byte): 190920
+			return code: 200
+
+
+415. http://q.usatoday.com/2014/02/17/nfl-concussions-helmets-study-rotational-forces-canidi-lloyd-nocsae/
+			num of found terms: 1
+			link score: 69.416
+			page score: 3.390
+			crawl time: 2014-02-20 12:48:51.948153
+			size(Byte): 179999
+			return code: 200
+
+
+416. http://q.usatoday.com/2014/02/20/chicago-bears-defense-marc-trestman-mel-tucker-defensive-scheme/
+			num of found terms: 1
+			link score: 110.471
+			page score: 3.195
+			crawl time: 2014-02-20 12:48:52.078451
+			size(Byte): 182548
+			return code: 200
+
+
+417. http://q.usatoday.com/2014/02/18/denver-broncos-nfl-draft-needs-offseason-top-prospects/
+			num of found terms: 1
+			link score: 68.420
+			page score: 3.420
+			crawl time: 2014-02-20 12:48:52.149642
+			size(Byte): 182348
+			return code: 200
+
+
+418. http://q.usatoday.com/2014/02/19/seattle-seahawks-nfl-draft-needs-offseason-top-prospects/
+			num of found terms: 1
+			link score: 69.416
+			page score: 3.405
+			crawl time: 2014-02-20 12:48:52.147919
+			size(Byte): 183532
+			return code: 200
+
+
+419. http://q.usatoday.com/2014/02/19/san-francisco-49ers-nfl-draft-needs-offseason-top-prospects/
+			num of found terms: 1
+			link score: 70.412
+			page score: 3.420
+			crawl time: 2014-02-20 12:48:52.270987
+			size(Byte): 183666
+			return code: 200
+
+
+420. http://q.usatoday.com/2014/02/18/kansas-city-chiefs-nfl-draft-needs-offseason-top-prospects/
+			num of found terms: 1
+			link score: 237.044
+			page score: 3.427
+			crawl time: 2014-02-20 12:48:52.391204
+			size(Byte): 182848
+			return code: 200
+
+
+421. http://q.usatoday.com/2014/02/18/michael-bennett-free-agency-seattle-seahawks/
+			num of found terms: 1
+			link score: 240.449
+			page score: 3.124
+			crawl time: 2014-02-20 12:48:52.390531
+			size(Byte): 183637
+			return code: 200
+
+
+422. http://q.usatoday.com/2014/02/18/texas-am-mike-evans-defends-johnny-manziel-nfl-draft/
+			num of found terms: 1
+			link score: 237.044
+			page score: 3.391
+			crawl time: 2014-02-20 12:48:52.395282
+			size(Byte): 178579
+			return code: 200
+
+
+423. http://q.usatoday.com/tag/nfl-draft/
+			num of found terms: 1
+			link score: 78.208
+			page score: 3.173
+			crawl time: 2014-02-20 12:48:53.097706
+			size(Byte): 172174
+			return code: 200
+
+
+424. http://q.usatoday.com/2014/02/18/san-diego-chargers-nfl-draft-needs-offseason-top-prospects/
+			num of found terms: 1
+			link score: 237.044
+			page score: 3.408
+			crawl time: 2014-02-20 12:48:53.152935
+			size(Byte): 183067
+			return code: 200
+
+
+425. http://q.usatoday.com/2014/02/19/nfl-combine-drills-what-to-watch/
+			num of found terms: 1
+			link score: 194.963
+			page score: 3.371
+			crawl time: 2014-02-20 12:48:53.198758
+			size(Byte): 186946
+			return code: 200
+
+
+426. http://q.usatoday.com/2014/02/18/oakland-raiders-nfl-draft-needs-offseason-top-prospects/
+			num of found terms: 1
+			link score: 237.044
+			page score: 3.399
+			crawl time: 2014-02-20 12:48:53.189722
+			size(Byte): 183036
+			return code: 200
+
+
+427. http://q.usatoday.com/2014/02/19/arizona-cardinals-nfl-draft-needs-offseason-top-prospects/
+			num of found terms: 1
+			link score: 237.044
+			page score: 3.420
+			crawl time: 2014-02-20 12:48:53.263489
+			size(Byte): 183079
+			return code: 200
+
+
+428. http://q.usatoday.com/2014/02/18/texas-am-mike-evans-nfl-draft-transitions-from-basketball-to-football/
+			num of found terms: 1
+			link score: 189.635
+			page score: 3.448
+			crawl time: 2014-02-20 12:48:53.346875
+			size(Byte): 179860
+			return code: 200
+
+
+429. http://www.usatoday.com/story/sports/nfl/2014/02/09/missouri-defensive-lineman-michael-sam-comes-out-openly-gay/5347777/
+			num of found terms: 2
+			link score: 52.726
+			page score: 3.241
+			crawl time: 2014-02-20 12:48:54.768131
+			size(Byte): 103283
+			return code: 200
+
+
+430. http://q.usatoday.com/2014/02/10/donte-stallworth-twitter-rant-michael-sam-gay-player-nfl-locker-room-culture/
+			num of found terms: 1
+			link score: 74.397
+			page score: 3.079
+			crawl time: 2014-02-20 12:48:54.918936
+			size(Byte): 190132
+			return code: 200
+
+
+431. http://q.usatoday.com/nfl/
+			num of found terms: 1
+			link score: 74.397
+			page score: 3.417
+			crawl time: 2014-02-20 12:48:55.192270
+			size(Byte): 166751
+			return code: 200
+
+
+432. http://q.usatoday.com/author/brent-sobleski/
+			num of found terms: 1
+			link score: 44.291
+			page score: 3.194
+			crawl time: 2014-02-20 12:48:55.717202
+			size(Byte): 170000
+			return code: 200
+
+
+433. http://q.usatoday.com/tag/Demaryius-Thomas/
+			num of found terms: 1
+			link score: 74.397
+			page score: 2.651
+			crawl time: 2014-02-20 12:48:55.770012
+			size(Byte): 55332
+			return code: 200
+
+
+434. http://q.usatoday.com/tag/Richard-Sherman/
+			num of found terms: 1
+			link score: 74.397
+			page score: 3.323
+			crawl time: 2014-02-20 12:48:55.974043
+			size(Byte): 144388
+			return code: 200
+
+
+435. http://q.usatoday.com/tag/Marshawn-Lynch/
+			num of found terms: 1
+			link score: 74.397
+			page score: 3.318
+			crawl time: 2014-02-20 12:48:56.011469
+			size(Byte): 147667
+			return code: 200
+
+
+436. http://q.usatoday.com/2014/02/04/q-mock-draft-22-louisville-cardinals-calvin-pryor-climbs-the-ranks/
+			num of found terms: 1
+			link score: 74.397
+			page score: 3.186
+			crawl time: 2014-02-20 12:48:55.997009
+			size(Byte): 188138
+			return code: 200
+
+
+437. http://q.usatoday.com/tag/Peyton-Manning/
+			num of found terms: 1
+			link score: 74.397
+			page score: 3.640
+			crawl time: 2014-02-20 12:48:56.069736
+			size(Byte): 156716
+			return code: 200
+
+
+438. http://q.usatoday.com/tag/Russell-Wilson/
+			num of found terms: 1
+			link score: 74.397
+			page score: 3.489
+			crawl time: 2014-02-20 12:48:56.257002
+			size(Byte): 159634
+			return code: 200
+
+
+439. http://q.usatoday.com/2014/02/03/super-bowl-xlviii-seattle-seahawks/
+			num of found terms: 1
+			link score: 27.230
+			page score: 3.380
+			crawl time: 2014-02-20 12:48:56.961754
+			size(Byte): 183906
+			return code: 200
+
+
+440. http://q.usatoday.com/tag/draft-needs/
+			num of found terms: 1
+			link score: 27.320
+			page score: 3.044
+			crawl time: 2014-02-20 12:48:57.107364
+			size(Byte): 170747
+			return code: 200
+
+
+441. http://q.usatoday.com/2014/01/11/seattle-seahawks-new-orleans-saints-nfc-divisional-round-playoffs-nfl/
+			num of found terms: 1
+			link score: 27.230
+			page score: 3.354
+			crawl time: 2014-02-20 12:48:57.134810
+			size(Byte): 187907
+			return code: 200
+
+
+442. http://q.usatoday.com/2014/01/31/am-q-kaepernick-sherman-manning-super-bowl/
+			num of found terms: 1
+			link score: 27.853
+			page score: 3.321
+			crawl time: 2014-02-20 12:48:57.152552
+			size(Byte): 181829
+			return code: 200
+
+
+443. http://q.usatoday.com/2014/02/02/seattle-dominates-denver-43-8-to-win-franchises-first-super-bowl/
+			num of found terms: 1
+			link score: 28.518
+			page score: 3.280
+			crawl time: 2014-02-20 12:48:57.154798
+			size(Byte): 188115
+			return code: 200
+
+
+444. http://q.usatoday.com/2013/12/21/jamaal-charles-peyton-manning-drew-brees-tom-brady-russell-wilson/
+			num of found terms: 1
+			link score: 28.518
+			page score: 3.262
+			crawl time: 2014-02-20 12:48:57.199396
+			size(Byte): 186158
+			return code: 200
+
+
+445. http://q.usatoday.com/2013/12/02/monday-night-football-saints-seahawks/
+			num of found terms: 1
+			link score: 27.230
+			page score: 2.230
+			crawl time: 2014-02-20 12:48:57.466074
+			size(Byte): 204545
+			return code: 200
+
+
+446. http://q.usatoday.com/2014/01/11/new-orleans-saints-seattle-seahawks-nfl-divisional-playoff/
+			num of found terms: 2
+			link score: 40.522
+			page score: 4.608
+			crawl time: 2014-02-20 12:48:57.653802
+			size(Byte): 212090
+			return code: 200
+
+
+447. http://q.usatoday.com/2014/01/24/senior-bowl-nfl-draft-south-squad-profiles/
+			num of found terms: 1
+			link score: 27.320
+			page score: 3.685
+			crawl time: 2014-02-20 12:48:57.674854
+			size(Byte): 143465
+			return code: 200
+
+
+448. http://q.usatoday.com/2014/01/24/senior-bowl-nfl-draft-north-squad-profiles/
+			num of found terms: 1
+			link score: 30.639
+			page score: 3.471
+			crawl time: 2014-02-20 12:48:57.844438
+			size(Byte): 225198
+			return code: 200
+
+
+449. http://www.usatoday.com/story/sports/olympics/sochi/2014/02/19/russian-finland-olympic-men-hockey/5601813/
+			num of found terms: 2
+			link score: 25.644
+			page score: 1.023
+			crawl time: 2014-02-20 12:48:58.011890
+			size(Byte): 296653
+			return code: 200
+
+
+450. http://www.usatoday.com/story/sports/olympics/sochi/2014/02/19/why-russia-lost-men-hockey-olympics/5604423/
+			num of found terms: 2
+			link score: 23.993
+			page score: 1.049
+			crawl time: 2014-02-20 12:48:58.014155
+			size(Byte): 301002
+			return code: 200
+
+
+451. http://q.usatoday.com/2014/02/17/atlanta-falcons-nfl-draft-needs-offseason-top-prospects/
+			num of found terms: 1
+			link score: 31.086
+			page score: 3.390
+			crawl time: 2014-02-20 12:48:58.757199
+			size(Byte): 189115
+			return code: 200
+
+
+452. http://q.usatoday.com/tag/seattle-seahawks/
+			num of found terms: 1
+			link score: 23.382
+			page score: 3.732
+			crawl time: 2014-02-20 12:48:58.785823
+			size(Byte): 157918
+			return code: 200
+
+
+453. http://q.usatoday.com/2014/02/17/tampa-bay-buccaneers-nfl-draft-needs-offseason-top-prospects/
+			num of found terms: 1
+			link score: 31.086
+			page score: 3.396
+			crawl time: 2014-02-20 12:48:58.837678
+			size(Byte): 189729
+			return code: 200
+
+
+454. http://q.usatoday.com/2014/02/14/jacksonville-jaguars-nfl-draft-needs-offseason-top-prospects/
+			num of found terms: 1
+			link score: 31.086
+			page score: 3.390
+			crawl time: 2014-02-20 12:48:58.942276
+			size(Byte): 189895
+			return code: 200
+
+
+455. http://q.usatoday.com/2014/02/14/tennessee-titans-nfl-draft-needs-offseason-top-prospects/
+			num of found terms: 1
+			link score: 31.086
+			page score: 3.390
+			crawl time: 2014-02-20 12:48:59.109040
+			size(Byte): 189533
+			return code: 200
+
+
+456. http://q.usatoday.com/2014/02/17/carolina-panthers-nfl-draft-needs-offseason-top-prospects/
+			num of found terms: 1
+			link score: 31.086
+			page score: 3.390
+			crawl time: 2014-02-20 12:48:59.143777
+			size(Byte): 189289
+			return code: 200
+
+
+457. http://q.usatoday.com/2014/02/17/new-orleans-saints-nfl-draft-needs-offseason-top-prospects/
+			num of found terms: 1
+			link score: 31.086
+			page score: 3.396
+			crawl time: 2014-02-20 12:48:59.198015
+			size(Byte): 189301
+			return code: 200
+
+
+458. https://twitter.com/search?q=%23Saints
+			num of found terms: 1
+			link score: 38.655
+			page score: 0.003
+			crawl time: 2014-02-20 12:48:59.252466
+			size(Byte): 311373
+			return code: 200
+
+
+459. http://q.usatoday.com/2014/01/30/denver-broncos-offense-seaatle-seahawks-peyton-manning-super-bowl/
+			num of found terms: 1
+			link score: 29.491
+			page score: 3.329
+			crawl time: 2014-02-20 12:49:00.309819
+			size(Byte): 188365
+			return code: 200
+
+
+460. http://q.usatoday.com/2014/02/05/seattle-seahawks-russell-wilson-pete-carroll-discuss-super-bowl-repeat/
+			num of found terms: 1
+			link score: 28.886
+			page score: 3.319
+			crawl time: 2014-02-20 12:49:00.378242
+			size(Byte): 185651
+			return code: 200
+
+
+461. http://q.usatoday.com/2014/02/03/russell-wilson-seattle-seahawks-texas-rangers-super-bowl-xlviii/
+			num of found terms: 1
+			link score: 28.886
+			page score: 3.398
+			crawl time: 2014-02-20 12:49:00.448272
+			size(Byte): 182577
+			return code: 200
+
+
+462. http://q.usatoday.com/2014/02/04/seattle-seahawks-russell-wilson-wont-participate-in-texas-rangers-spring-training/
+			num of found terms: 1
+			link score: 28.886
+			page score: 3.362
+			crawl time: 2014-02-20 12:49:00.419559
+			size(Byte): 184469
+			return code: 200
+
+
+463. http://q.usatoday.com/2014/01/30/seattle-seahawks-russell-wilson-nfl-no-1-sales/
+			num of found terms: 1
+			link score: 28.886
+			page score: 3.487
+			crawl time: 2014-02-20 12:49:00.447453
+			size(Byte): 181434
+			return code: 200
+
+
+464. http://q.usatoday.com/2014/02/03/who-is-the-next-russell-wilson-johnny-manziel/
+			num of found terms: 1
+			link score: 28.886
+			page score: 3.307
+			crawl time: 2014-02-20 12:49:00.481451
+			size(Byte): 187498
+			return code: 200
+
+
+465. http://q.usatoday.com/author/lorenzoreyes/
+			num of found terms: 1
+			link score: 33.574
+			page score: 3.645
+			crawl time: 2014-02-20 12:49:00.545983
+			size(Byte): 162552
+			return code: 200
+
+
+466. http://q.usatoday.com/2014/02/09/richard-sherman-super-bowl-seattle-seahawks-taunt-wes-welker-denver-broncos/
+			num of found terms: 1
+			link score: 28.222
+			page score: 3.389
+			crawl time: 2014-02-20 12:49:00.466651
+			size(Byte): 184364
+			return code: 200
+
+
+467. http://q.usatoday.com/2014/02/10/minor-league-team-after-seattle-seahawks-quarterback-russell-wilson/
+			num of found terms: 1
+			link score: 28.886
+			page score: 3.329
+			crawl time: 2014-02-20 12:49:00.617843
+			size(Byte): 184078
+			return code: 200
+
+
+468. http://ftw.usatoday.com/2014/02/as-closer-is-pals-with-kevin-spacey-and-made-a-cameo-in-house-of-cards/
+			num of found terms: 1
+			link score: 21.169
+			page score: 2.379
+			crawl time: 2014-02-20 12:49:02.552428
+			size(Byte): 115126
+			return code: 200
+
+
+469. http://ftw.usatoday.com/2014/02/two-players-ejected-after-skirmish-in-ohio-state-northwestern-game/
+			num of found terms: 1
+			link score: 20.316
+			page score: 2.462
+			crawl time: 2014-02-20 12:49:02.551476
+			size(Byte): 123978
+			return code: 200
+
+
+470. http://q.usatoday.com/2014/02/17/sochi-olympics-mens-hockey-schedule-usa-russia-oshie-jonathan-quick/
+			num of found terms: 1
+			link score: 29.506
+			page score: 3.980
+			crawl time: 2014-02-20 12:49:02.547847
+			size(Byte): 180643
+			return code: 200
+
+
+471. https://twitter.com/intent/tweet?url=http://usat.ly/1eQXnnK&text=How%20to%20be%20the%20world%27s%20smartest%20traveler&via=usatoday
+			num of found terms: 2
+			link score: 20.230
+			page score: 4.000
+			crawl time: 2014-02-20 12:49:02.788680
+			size(Byte): 5825
+			return code: 200
+
+
+472. https://twitter.com/highkin
+			num of found terms: 1
+			link score: 20.173
+			page score: 0.073
+			crawl time: 2014-02-20 12:49:02.767279
+			size(Byte): 195082
+			return code: 200
+
+
+473. http://ftw.usatoday.com/2014/02/florida-auburn-upset/
+			num of found terms: 1
+			link score: 21.709
+			page score: 2.417
+			crawl time: 2014-02-20 12:49:03.217602
+			size(Byte): 109681
+			return code: 200
+
+
+474. http://q.usatoday.com/tag/russell-wilson/
+			num of found terms: 1
+			link score: 40.317
+			page score: 3.489
+			crawl time: 2014-02-20 12:49:03.222382
+			size(Byte): 159634
+			return code: 200
+
+
+475. http://q.usatoday.com/tag/mens-hockey/
+			num of found terms: 1
+			link score: 22.378
+			page score: 3.732
+			crawl time: 2014-02-20 12:49:07.323478
+			size(Byte): 102600
+			return code: 200
+
+
+476. http://q.usatoday.com/2013/11/30/russell-wilson-drew-brees-jovan-belcher-richie-incognito-jonathan-martin/
+			num of found terms: 1
+			link score: 27.914
+			page score: 3.220
+			crawl time: 2014-02-20 12:49:07.929136
+			size(Byte): 185973
+			return code: 200
+
+
+477. http://q.usatoday.com/2013/12/12/nfl-mvp-tracker-week-14-lesean-mccoy/
+			num of found terms: 1
+			link score: 27.914
+			page score: 3.240
+			crawl time: 2014-02-20 12:49:08.033272
+			size(Byte): 185236
+			return code: 200
+
+
+478. http://q.usatoday.com/2014/01/27/broncos-found-a-weakness-in-russell-wilson/
+			num of found terms: 1
+			link score: 27.914
+			page score: 3.360
+			crawl time: 2014-02-20 12:49:08.030153
+			size(Byte): 184524
+			return code: 200
+
+
+479. http://q.usatoday.com/tag/super-bowl/
+			num of found terms: 1
+			link score: 20.097
+			page score: 3.979
+			crawl time: 2014-02-20 12:49:08.155493
+			size(Byte): 155426
+			return code: 200
+
+
+480. http://q.usatoday.com/2013/12/02/it-doesnt-get-bigger-than-seahawks-saints/
+			num of found terms: 1
+			link score: 27.914
+			page score: 3.400
+			crawl time: 2014-02-20 12:49:08.187242
+			size(Byte): 182186
+			return code: 200
+
+
+481. http://q.usatoday.com/2013/11/29/drew-brees-russell-wilson-new-orleans-saints-seattle-seahawks/
+			num of found terms: 1
+			link score: 27.914
+			page score: 3.271
+			crawl time: 2014-02-20 12:49:08.197873
+			size(Byte): 184882
+			return code: 200
+
+
+482. http://q.usatoday.com/2013/12/05/nfl-mvp-tracker-week-13-russell-wilson/
+			num of found terms: 1
+			link score: 27.914
+			page score: 3.301
+			crawl time: 2014-02-20 12:49:08.202371
+			size(Byte): 184550
+			return code: 200
+
+
+483. http://q.usatoday.com/2013/12/03/seahawks-are-super-bowl-favorites/
+			num of found terms: 1
+			link score: 27.914
+			page score: 3.140
+			crawl time: 2014-02-20 12:49:08.236502
+			size(Byte): 185008
+			return code: 200
+
+
+484. http://q.usatoday.com/2013/11/30/percy-harvin-seattle-seahawks-injury-hip-russell-wilson/
+			num of found terms: 1
+			link score: 27.914
+			page score: 3.346
+			crawl time: 2014-02-20 12:49:08.375077
+			size(Byte): 182763
+			return code: 200
+
+
+485. http://q.usatoday.com/2014/02/15/sochi-winter-olympics-usa-russia-mens-hockey-live-blog/
+			num of found terms: 1
+			link score: 29.854
+			page score: 3.640
+			crawl time: 2014-02-20 12:49:08.518889
+			size(Byte): 206077
+			return code: 200
+
+
+486. http://q.usatoday.com/tag/drew-brees/
+			num of found terms: 2
+			link score: 33.026
+			page score: 7.116
+			crawl time: 2014-02-20 12:49:09.182384
+			size(Byte): 160410
+			return code: 200
+
+
+487. http://q.usatoday.com/2014/02/11/sochi-winter-olympics-mens-hockey-predictions-video/
+			num of found terms: 1
+			link score: 29.854
+			page score: 3.568
+			crawl time: 2014-02-20 12:49:09.215610
+			size(Byte): 178143
+			return code: 200
+
+
+488. http://q.usatoday.com/2014/02/08/k-j-wright-seattle-seahawks-denver-broncos-super-bowl-90-wins-100-games/
+			num of found terms: 1
+			link score: 30.845
+			page score: 3.419
+			crawl time: 2014-02-20 12:49:09.253364
+			size(Byte): 184408
+			return code: 200
+
+
+489. http://q.usatoday.com/2014/02/13/get-to-know-us-mens-hockey-team-preview-sochi-winter-olympics/
+			num of found terms: 1
+			link score: 29.854
+			page score: 3.558
+			crawl time: 2014-02-20 12:49:09.295754
+			size(Byte): 179118
+			return code: 200
+
+
+490. http://q.usatoday.com/2014/01/31/pete-carroll-john-fox-super-bowl-coaches/
+			num of found terms: 1
+			link score: 30.845
+			page score: 3.393
+			crawl time: 2014-02-20 12:49:09.433029
+			size(Byte): 186118
+			return code: 200
+
+
+491. http://q.usatoday.com/2014/02/02/super-bowl-xlviii-cold-roger-goodell-new-york-new-jersey/
+			num of found terms: 1
+			link score: 30.845
+			page score: 3.389
+			crawl time: 2014-02-20 12:49:09.387116
+			size(Byte): 182710
+			return code: 200
+
+
+492. http://q.usatoday.com/2014/02/03/seattle-seahawks-denver-broncos-super-bowl-xlviii/
+			num of found terms: 1
+			link score: 30.845
+			page score: 3.419
+			crawl time: 2014-02-20 12:49:09.186410
+			size(Byte): 182049
+			return code: 200
+
+
+493. http://q.usatoday.com/2014/02/01/super-bowl-denver-broncos-seattle-seahawks/
+			num of found terms: 1
+			link score: 30.845
+			page score: 3.313
+			crawl time: 2014-02-20 12:49:09.578754
+			size(Byte): 182088
+			return code: 200
+
+
+494. http://q.usatoday.com/2014/02/02/super-bowl-xlviii-2014-schedule-network-analysis-live-blog-updates-denver-broncos-seattle-seahawks/
+			num of found terms: 2
+			link score: 38.556
+			page score: 4.996
+			crawl time: 2014-02-20 12:49:09.643108
+			size(Byte): 228186
+			return code: 200
+
+
+495. http://q.usatoday.com/2013/12/26/5-things-jon-kitna-denver-broncos/
+			num of found terms: 1
+			link score: 28.464
+			page score: 3.301
+			crawl time: 2014-02-20 12:49:10.437389
+			size(Byte): 181562
+			return code: 200
+
+
+496. https://twitter.com/search?q=%23Seahawks
+			num of found terms: 1
+			link score: 33.950
+			page score: 0.003
+			crawl time: 2014-02-20 12:49:10.436035
+			size(Byte): 319094
+			return code: 200
+
+
+497. http://q.usatoday.com/2014/02/16/sochi-winter-olympics-us-mens-hockey-slovenia-live-blog/
+			num of found terms: 1
+			link score: 29.854
+			page score: 3.320
+			crawl time: 2014-02-20 12:49:10.704234
+			size(Byte): 199250
+			return code: 200
+
+
+498. http://q.usatoday.com/2014/01/29/dan-marino-throw-for-6000-yards-in-todays-nfl/
+			num of found terms: 1
+			link score: 43.025
+			page score: 3.391
+			crawl time: 2014-02-20 12:49:10.645381
+			size(Byte): 182134
+			return code: 200
+
+
+499. http://q.usatoday.com/tag/denver-broncos/
+			num of found terms: 1
+			link score: 38.706
+			page score: 3.694
+			crawl time: 2014-02-20 12:49:10.823260
+			size(Byte): 159654
+			return code: 200
+
+
+500. http://q.usatoday.com/2014/01/28/seattle-seahawks-richardson-sherman-super-bowl-media-day/
+			num of found terms: 1
+			link score: 29.208
+			page score: 3.471
+			crawl time: 2014-02-20 12:49:10.859858
+			size(Byte): 182195
+			return code: 200
+
+
+Statistics:
+			Number of Files: 500
+			Total Size(MiB): 57.92
+			Total Time: 0:02:29.574691
+			Number of 404: 0
+
